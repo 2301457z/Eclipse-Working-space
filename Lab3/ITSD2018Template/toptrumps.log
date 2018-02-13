@@ -1,0 +1,3531 @@
+Description Size Speed Range Firepower Cargo
+350r 1 9 2 3 0
+Avenger 2 5 4 3 2
+Carrack 6 2 10 4 6
+Constellation 4 5 7 3 4
+Hawk 1 3 2 4 0
+Hornet 2 5 3 4 1
+Hurricane 2 5 3 5 0
+Idris 8 2 7 10 6
+m50 1 10 2 2 0
+Merchantman 7 3 5 6 8
+Orion 10 1 6 2 9
+Sabre 2 7 2 5 0
+Vanguard 3 4 5 5 2
+350r 1 9 2 3 0
+Avenger 2 5 4 3 2
+Carrack 6 2 10 4 6
+Constellation 4 5 7 3 4
+Hawk 1 3 2 4 0
+Hornet 2 5 3 4 1
+Hurricane 2 5 3 5 0
+Idris 8 2 7 10 6
+m50 1 10 2 2 0
+Merchantman 7 3 5 6 8
+Orion 10 1 6 2 9
+Sabre 2 7 2 5 0
+Vanguard 3 4 5 5 2
+350r 1 9 2 3 0
+Avenger 2 5 4 3 2
+Carrack 6 2 10 4 6
+Constellation 4 5 7 3 4
+Hawk 1 3 2 4 0
+Hornet 2 5 3 4 1
+Hurricane 2 5 3 5 0
+Idris 8 2 7 10 6
+m50 1 10 2 2 0
+Merchantman 7 3 5 6 8
+Orion 10 1 6 2 9
+Sabre 2 7 2 5 0
+Vanguard 3 4 5 5 2
+Avenger 2 5 4 3 2
+------------------------------------------
+Description Size Speed Range Firepower Cargo
+Hurricane 2 5 3 5 0
+Hawk 1 3 2 4 0
+Constellation 4 5 7 3 4
+Sabre 2 7 2 5 0
+m50 1 10 2 2 0
+Hurricane 2 5 3 5 0
+350r 1 9 2 3 0
+Carrack 6 2 10 4 6
+Hawk 1 3 2 4 0
+Idris 8 2 7 10 6
+m50 1 10 2 2 0
+Hornet 2 5 3 4 1
+Avenger 2 5 4 3 2
+Carrack 6 2 10 4 6
+Avenger 2 5 4 3 2
+Idris 8 2 7 10 6
+Constellation 4 5 7 3 4
+Sabre 2 7 2 5 0
+Carrack 6 2 10 4 6
+m50 1 10 2 2 0
+Avenger 2 5 4 3 2
+Merchantman 7 3 5 6 8
+Avenger 2 5 4 3 2
+Orion 10 1 6 2 9
+Orion 10 1 6 2 9
+Orion 10 1 6 2 9
+Merchantman 7 3 5 6 8
+Vanguard 3 4 5 5 2
+Hurricane 2 5 3 5 0
+Hornet 2 5 3 4 1
+Idris 8 2 7 10 6
+Vanguard 3 4 5 5 2
+Merchantman 7 3 5 6 8
+Hornet 2 5 3 4 1
+350r 1 9 2 3 0
+Constellation 4 5 7 3 4
+Sabre 2 7 2 5 0
+Vanguard 3 4 5 5 2
+350r 1 9 2 3 0
+Hawk 1 3 2 4 0
+------------------------------------------
+HumanPlayer
+Description Size Speed Range Firepower Cargo
+350r 1 9 2 3 0
+Constellation 4 5 7 3 4
+Hornet 2 5 3 4 1
+Sabre 2 7 2 5 0
+Hawk 1 3 2 4 0
+Constellation 4 5 7 3 4
+Hurricane 2 5 3 5 0
+Avenger 2 5 4 3 2
+------------------------------------------
+AI1
+Description Size Speed Range Firepower Cargo
+Hawk 1 3 2 4 0
+Merchantman 7 3 5 6 8
+m50 1 10 2 2 0
+Hurricane 2 5 3 5 0
+Hornet 2 5 3 4 1
+Hawk 1 3 2 4 0
+Idris 8 2 7 10 6
+Merchantman 7 3 5 6 8
+------------------------------------------
+AI2
+Description Size Speed Range Firepower Cargo
+350r 1 9 2 3 0
+Avenger 2 5 4 3 2
+m50 1 10 2 2 0
+Vanguard 3 4 5 5 2
+Avenger 2 5 4 3 2
+Sabre 2 7 2 5 0
+Vanguard 3 4 5 5 2
+Idris 8 2 7 10 6
+------------------------------------------
+AI3
+Description Size Speed Range Firepower Cargo
+Hurricane 2 5 3 5 0
+Carrack 6 2 10 4 6
+Idris 8 2 7 10 6
+Avenger 2 5 4 3 2
+m50 1 10 2 2 0
+Carrack 6 2 10 4 6
+Hornet 2 5 3 4 1
+Merchantman 7 3 5 6 8
+------------------------------------------
+AI4
+Description Size Speed Range Firepower Cargo
+350r 1 9 2 3 0
+Sabre 2 7 2 5 0
+Orion 10 1 6 2 9
+Vanguard 3 4 5 5 2
+Carrack 6 2 10 4 6
+Constellation 4 5 7 3 4
+Orion 10 1 6 2 9
+Orion 10 1 6 2 9
+------------------------------------------
+Round 1
+------------------------------------------
+---------HumanPlayer---------
+Card name: 350r
+Size: 1
+Speed: 9
+Range: 2
+Firepower: 3
+Cargo: 0
+------------------------------------------
+The activate player is AI3
+The player selected: Speed Value: 5
+------------------------------------------
+---------AI1---------
+Card name: Hawk
+Size: 1
+Speed: 3
+Range: 2
+Firepower: 4
+Cargo: 0
+------------------------------------------
+------------------------------------------
+---------AI2---------
+Card name: 350r
+Size: 1
+Speed: 9
+Range: 2
+Firepower: 3
+Cargo: 0
+------------------------------------------
+------------------------------------------
+---------AI3---------
+Card name: Hurricane
+Size: 2
+Speed: 5
+Range: 3
+Firepower: 5
+Cargo: 0
+------------------------------------------
+------------------------------------------
+---------AI4---------
+Card name: 350r
+Size: 1
+Speed: 9
+Range: 2
+Firepower: 3
+Cargo: 0
+------------------------------------------
+The round is a draw!
+------------------------------------------
+The communal pile has cards:
+350r 1 9 2 3 0
+Hawk 1 3 2 4 0
+350r 1 9 2 3 0
+Hurricane 2 5 3 5 0
+350r 1 9 2 3 0
+------------------------------------------
+HumanPlayer
+Description Size Speed Range Firepower Cargo
+Constellation 4 5 7 3 4
+Hornet 2 5 3 4 1
+Sabre 2 7 2 5 0
+Hawk 1 3 2 4 0
+Constellation 4 5 7 3 4
+Hurricane 2 5 3 5 0
+Avenger 2 5 4 3 2
+------------------------------------------
+AI1
+Description Size Speed Range Firepower Cargo
+Merchantman 7 3 5 6 8
+m50 1 10 2 2 0
+Hurricane 2 5 3 5 0
+Hornet 2 5 3 4 1
+Hawk 1 3 2 4 0
+Idris 8 2 7 10 6
+Merchantman 7 3 5 6 8
+------------------------------------------
+AI2
+Description Size Speed Range Firepower Cargo
+Avenger 2 5 4 3 2
+m50 1 10 2 2 0
+Vanguard 3 4 5 5 2
+Avenger 2 5 4 3 2
+Sabre 2 7 2 5 0
+Vanguard 3 4 5 5 2
+Idris 8 2 7 10 6
+------------------------------------------
+AI3
+Description Size Speed Range Firepower Cargo
+Carrack 6 2 10 4 6
+Idris 8 2 7 10 6
+Avenger 2 5 4 3 2
+m50 1 10 2 2 0
+Carrack 6 2 10 4 6
+Hornet 2 5 3 4 1
+Merchantman 7 3 5 6 8
+------------------------------------------
+AI4
+Description Size Speed Range Firepower Cargo
+Sabre 2 7 2 5 0
+Orion 10 1 6 2 9
+Vanguard 3 4 5 5 2
+Carrack 6 2 10 4 6
+Constellation 4 5 7 3 4
+Orion 10 1 6 2 9
+Orion 10 1 6 2 9
+------------------------------------------
+Round 2
+------------------------------------------
+---------HumanPlayer---------
+Card name: Constellation
+Size: 4
+Speed: 5
+Range: 7
+Firepower: 3
+Cargo: 4
+------------------------------------------
+The activate player is AI3
+The player selected: Range Value: 10
+------------------------------------------
+---------AI1---------
+Card name: Merchantman
+Size: 7
+Speed: 3
+Range: 5
+Firepower: 6
+Cargo: 8
+------------------------------------------
+------------------------------------------
+---------AI2---------
+Card name: Avenger
+Size: 2
+Speed: 5
+Range: 4
+Firepower: 3
+Cargo: 2
+------------------------------------------
+------------------------------------------
+---------AI3---------
+Card name: Carrack
+Size: 6
+Speed: 2
+Range: 10
+Firepower: 4
+Cargo: 6
+------------------------------------------
+------------------------------------------
+---------AI4---------
+Card name: Sabre
+Size: 2
+Speed: 7
+Range: 2
+Firepower: 5
+Cargo: 0
+------------------------------------------
+AI3 wins the round!
+The communal pile has no cards now!
+------------------------------------------
+HumanPlayer
+Description Size Speed Range Firepower Cargo
+Hornet 2 5 3 4 1
+Sabre 2 7 2 5 0
+Hawk 1 3 2 4 0
+Constellation 4 5 7 3 4
+Hurricane 2 5 3 5 0
+Avenger 2 5 4 3 2
+------------------------------------------
+AI1
+Description Size Speed Range Firepower Cargo
+m50 1 10 2 2 0
+Hurricane 2 5 3 5 0
+Hornet 2 5 3 4 1
+Hawk 1 3 2 4 0
+Idris 8 2 7 10 6
+Merchantman 7 3 5 6 8
+------------------------------------------
+AI2
+Description Size Speed Range Firepower Cargo
+m50 1 10 2 2 0
+Vanguard 3 4 5 5 2
+Avenger 2 5 4 3 2
+Sabre 2 7 2 5 0
+Vanguard 3 4 5 5 2
+Idris 8 2 7 10 6
+------------------------------------------
+AI3
+Description Size Speed Range Firepower Cargo
+Idris 8 2 7 10 6
+Avenger 2 5 4 3 2
+m50 1 10 2 2 0
+Carrack 6 2 10 4 6
+Hornet 2 5 3 4 1
+Merchantman 7 3 5 6 8
+350r 1 9 2 3 0
+Hawk 1 3 2 4 0
+350r 1 9 2 3 0
+Hurricane 2 5 3 5 0
+350r 1 9 2 3 0
+Constellation 4 5 7 3 4
+Merchantman 7 3 5 6 8
+Avenger 2 5 4 3 2
+Carrack 6 2 10 4 6
+Sabre 2 7 2 5 0
+------------------------------------------
+AI4
+Description Size Speed Range Firepower Cargo
+Orion 10 1 6 2 9
+Vanguard 3 4 5 5 2
+Carrack 6 2 10 4 6
+Constellation 4 5 7 3 4
+Orion 10 1 6 2 9
+Orion 10 1 6 2 9
+------------------------------------------
+Round 3
+------------------------------------------
+---------HumanPlayer---------
+Card name: Hornet
+Size: 2
+Speed: 5
+Range: 3
+Firepower: 4
+Cargo: 1
+------------------------------------------
+The activate player is AI3
+The player selected: Firepower Value: 10
+------------------------------------------
+---------AI1---------
+Card name: m50
+Size: 1
+Speed: 10
+Range: 2
+Firepower: 2
+Cargo: 0
+------------------------------------------
+------------------------------------------
+---------AI2---------
+Card name: m50
+Size: 1
+Speed: 10
+Range: 2
+Firepower: 2
+Cargo: 0
+------------------------------------------
+------------------------------------------
+---------AI3---------
+Card name: Idris
+Size: 8
+Speed: 2
+Range: 7
+Firepower: 10
+Cargo: 6
+------------------------------------------
+------------------------------------------
+---------AI4---------
+Card name: Orion
+Size: 10
+Speed: 1
+Range: 6
+Firepower: 2
+Cargo: 9
+------------------------------------------
+AI3 wins the round!
+The communal pile has no cards now!
+------------------------------------------
+HumanPlayer
+Description Size Speed Range Firepower Cargo
+Sabre 2 7 2 5 0
+Hawk 1 3 2 4 0
+Constellation 4 5 7 3 4
+Hurricane 2 5 3 5 0
+Avenger 2 5 4 3 2
+------------------------------------------
+AI1
+Description Size Speed Range Firepower Cargo
+Hurricane 2 5 3 5 0
+Hornet 2 5 3 4 1
+Hawk 1 3 2 4 0
+Idris 8 2 7 10 6
+Merchantman 7 3 5 6 8
+------------------------------------------
+AI2
+Description Size Speed Range Firepower Cargo
+Vanguard 3 4 5 5 2
+Avenger 2 5 4 3 2
+Sabre 2 7 2 5 0
+Vanguard 3 4 5 5 2
+Idris 8 2 7 10 6
+------------------------------------------
+AI3
+Description Size Speed Range Firepower Cargo
+Avenger 2 5 4 3 2
+m50 1 10 2 2 0
+Carrack 6 2 10 4 6
+Hornet 2 5 3 4 1
+Merchantman 7 3 5 6 8
+350r 1 9 2 3 0
+Hawk 1 3 2 4 0
+350r 1 9 2 3 0
+Hurricane 2 5 3 5 0
+350r 1 9 2 3 0
+Constellation 4 5 7 3 4
+Merchantman 7 3 5 6 8
+Avenger 2 5 4 3 2
+Carrack 6 2 10 4 6
+Sabre 2 7 2 5 0
+Hornet 2 5 3 4 1
+m50 1 10 2 2 0
+m50 1 10 2 2 0
+Idris 8 2 7 10 6
+Orion 10 1 6 2 9
+------------------------------------------
+AI4
+Description Size Speed Range Firepower Cargo
+Vanguard 3 4 5 5 2
+Carrack 6 2 10 4 6
+Constellation 4 5 7 3 4
+Orion 10 1 6 2 9
+Orion 10 1 6 2 9
+------------------------------------------
+Round 4
+------------------------------------------
+---------HumanPlayer---------
+Card name: Sabre
+Size: 2
+Speed: 7
+Range: 2
+Firepower: 5
+Cargo: 0
+------------------------------------------
+The activate player is AI3
+The player selected: Speed Value: 5
+------------------------------------------
+---------AI1---------
+Card name: Hurricane
+Size: 2
+Speed: 5
+Range: 3
+Firepower: 5
+Cargo: 0
+------------------------------------------
+------------------------------------------
+---------AI2---------
+Card name: Vanguard
+Size: 3
+Speed: 4
+Range: 5
+Firepower: 5
+Cargo: 2
+------------------------------------------
+------------------------------------------
+---------AI3---------
+Card name: Avenger
+Size: 2
+Speed: 5
+Range: 4
+Firepower: 3
+Cargo: 2
+------------------------------------------
+------------------------------------------
+---------AI4---------
+Card name: Vanguard
+Size: 3
+Speed: 4
+Range: 5
+Firepower: 5
+Cargo: 2
+------------------------------------------
+Human player wins the round!
+The communal pile has no cards now!
+------------------------------------------
+HumanPlayer
+Description Size Speed Range Firepower Cargo
+Hawk 1 3 2 4 0
+Constellation 4 5 7 3 4
+Hurricane 2 5 3 5 0
+Avenger 2 5 4 3 2
+Sabre 2 7 2 5 0
+Hurricane 2 5 3 5 0
+Vanguard 3 4 5 5 2
+Avenger 2 5 4 3 2
+Vanguard 3 4 5 5 2
+------------------------------------------
+AI1
+Description Size Speed Range Firepower Cargo
+Hornet 2 5 3 4 1
+Hawk 1 3 2 4 0
+Idris 8 2 7 10 6
+Merchantman 7 3 5 6 8
+------------------------------------------
+AI2
+Description Size Speed Range Firepower Cargo
+Avenger 2 5 4 3 2
+Sabre 2 7 2 5 0
+Vanguard 3 4 5 5 2
+Idris 8 2 7 10 6
+------------------------------------------
+AI3
+Description Size Speed Range Firepower Cargo
+m50 1 10 2 2 0
+Carrack 6 2 10 4 6
+Hornet 2 5 3 4 1
+Merchantman 7 3 5 6 8
+350r 1 9 2 3 0
+Hawk 1 3 2 4 0
+350r 1 9 2 3 0
+Hurricane 2 5 3 5 0
+350r 1 9 2 3 0
+Constellation 4 5 7 3 4
+Merchantman 7 3 5 6 8
+Avenger 2 5 4 3 2
+Carrack 6 2 10 4 6
+Sabre 2 7 2 5 0
+Hornet 2 5 3 4 1
+m50 1 10 2 2 0
+m50 1 10 2 2 0
+Idris 8 2 7 10 6
+Orion 10 1 6 2 9
+------------------------------------------
+AI4
+Description Size Speed Range Firepower Cargo
+Carrack 6 2 10 4 6
+Constellation 4 5 7 3 4
+Orion 10 1 6 2 9
+Orion 10 1 6 2 9
+------------------------------------------
+Round 5
+------------------------------------------
+---------HumanPlayer---------
+Card name: Hawk
+Size: 1
+Speed: 3
+Range: 2
+Firepower: 4
+Cargo: 0
+------------------------------------------
+Human player is the active player!
+Choice: Speed Value: 3
+------------------------------------------
+---------AI1---------
+Card name: Hornet
+Size: 2
+Speed: 5
+Range: 3
+Firepower: 4
+Cargo: 1
+------------------------------------------
+------------------------------------------
+---------AI2---------
+Card name: Avenger
+Size: 2
+Speed: 5
+Range: 4
+Firepower: 3
+Cargo: 2
+------------------------------------------
+------------------------------------------
+---------AI3---------
+Card name: m50
+Size: 1
+Speed: 10
+Range: 2
+Firepower: 2
+Cargo: 0
+------------------------------------------
+------------------------------------------
+---------AI4---------
+Card name: Carrack
+Size: 6
+Speed: 2
+Range: 10
+Firepower: 4
+Cargo: 6
+------------------------------------------
+AI3 wins the round!
+The communal pile has no cards now!
+------------------------------------------
+HumanPlayer
+Description Size Speed Range Firepower Cargo
+Constellation 4 5 7 3 4
+Hurricane 2 5 3 5 0
+Avenger 2 5 4 3 2
+Sabre 2 7 2 5 0
+Hurricane 2 5 3 5 0
+Vanguard 3 4 5 5 2
+Avenger 2 5 4 3 2
+Vanguard 3 4 5 5 2
+------------------------------------------
+AI1
+Description Size Speed Range Firepower Cargo
+Hawk 1 3 2 4 0
+Idris 8 2 7 10 6
+Merchantman 7 3 5 6 8
+------------------------------------------
+AI2
+Description Size Speed Range Firepower Cargo
+Sabre 2 7 2 5 0
+Vanguard 3 4 5 5 2
+Idris 8 2 7 10 6
+------------------------------------------
+AI3
+Description Size Speed Range Firepower Cargo
+Carrack 6 2 10 4 6
+Hornet 2 5 3 4 1
+Merchantman 7 3 5 6 8
+350r 1 9 2 3 0
+Hawk 1 3 2 4 0
+350r 1 9 2 3 0
+Hurricane 2 5 3 5 0
+350r 1 9 2 3 0
+Constellation 4 5 7 3 4
+Merchantman 7 3 5 6 8
+Avenger 2 5 4 3 2
+Carrack 6 2 10 4 6
+Sabre 2 7 2 5 0
+Hornet 2 5 3 4 1
+m50 1 10 2 2 0
+m50 1 10 2 2 0
+Idris 8 2 7 10 6
+Orion 10 1 6 2 9
+Hawk 1 3 2 4 0
+Hornet 2 5 3 4 1
+Avenger 2 5 4 3 2
+m50 1 10 2 2 0
+Carrack 6 2 10 4 6
+------------------------------------------
+AI4
+Description Size Speed Range Firepower Cargo
+Constellation 4 5 7 3 4
+Orion 10 1 6 2 9
+Orion 10 1 6 2 9
+------------------------------------------
+Round 6
+------------------------------------------
+---------HumanPlayer---------
+Card name: Constellation
+Size: 4
+Speed: 5
+Range: 7
+Firepower: 3
+Cargo: 4
+------------------------------------------
+The activate player is AI3
+The player selected: Range Value: 10
+------------------------------------------
+---------AI1---------
+Card name: Hawk
+Size: 1
+Speed: 3
+Range: 2
+Firepower: 4
+Cargo: 0
+------------------------------------------
+------------------------------------------
+---------AI2---------
+Card name: Sabre
+Size: 2
+Speed: 7
+Range: 2
+Firepower: 5
+Cargo: 0
+------------------------------------------
+------------------------------------------
+---------AI3---------
+Card name: Carrack
+Size: 6
+Speed: 2
+Range: 10
+Firepower: 4
+Cargo: 6
+------------------------------------------
+------------------------------------------
+---------AI4---------
+Card name: Constellation
+Size: 4
+Speed: 5
+Range: 7
+Firepower: 3
+Cargo: 4
+------------------------------------------
+AI3 wins the round!
+The communal pile has no cards now!
+------------------------------------------
+HumanPlayer
+Description Size Speed Range Firepower Cargo
+Hurricane 2 5 3 5 0
+Avenger 2 5 4 3 2
+Sabre 2 7 2 5 0
+Hurricane 2 5 3 5 0
+Vanguard 3 4 5 5 2
+Avenger 2 5 4 3 2
+Vanguard 3 4 5 5 2
+------------------------------------------
+AI1
+Description Size Speed Range Firepower Cargo
+Idris 8 2 7 10 6
+Merchantman 7 3 5 6 8
+------------------------------------------
+AI2
+Description Size Speed Range Firepower Cargo
+Vanguard 3 4 5 5 2
+Idris 8 2 7 10 6
+------------------------------------------
+AI3
+Description Size Speed Range Firepower Cargo
+Hornet 2 5 3 4 1
+Merchantman 7 3 5 6 8
+350r 1 9 2 3 0
+Hawk 1 3 2 4 0
+350r 1 9 2 3 0
+Hurricane 2 5 3 5 0
+350r 1 9 2 3 0
+Constellation 4 5 7 3 4
+Merchantman 7 3 5 6 8
+Avenger 2 5 4 3 2
+Carrack 6 2 10 4 6
+Sabre 2 7 2 5 0
+Hornet 2 5 3 4 1
+m50 1 10 2 2 0
+m50 1 10 2 2 0
+Idris 8 2 7 10 6
+Orion 10 1 6 2 9
+Hawk 1 3 2 4 0
+Hornet 2 5 3 4 1
+Avenger 2 5 4 3 2
+m50 1 10 2 2 0
+Carrack 6 2 10 4 6
+Constellation 4 5 7 3 4
+Hawk 1 3 2 4 0
+Sabre 2 7 2 5 0
+Carrack 6 2 10 4 6
+Constellation 4 5 7 3 4
+------------------------------------------
+AI4
+Description Size Speed Range Firepower Cargo
+Orion 10 1 6 2 9
+Orion 10 1 6 2 9
+------------------------------------------
+Round 7
+------------------------------------------
+---------HumanPlayer---------
+Card name: Hurricane
+Size: 2
+Speed: 5
+Range: 3
+Firepower: 5
+Cargo: 0
+------------------------------------------
+The activate player is AI3
+The player selected: Speed Value: 5
+------------------------------------------
+---------AI1---------
+Card name: Idris
+Size: 8
+Speed: 2
+Range: 7
+Firepower: 10
+Cargo: 6
+------------------------------------------
+------------------------------------------
+---------AI2---------
+Card name: Vanguard
+Size: 3
+Speed: 4
+Range: 5
+Firepower: 5
+Cargo: 2
+------------------------------------------
+------------------------------------------
+---------AI3---------
+Card name: Hornet
+Size: 2
+Speed: 5
+Range: 3
+Firepower: 4
+Cargo: 1
+------------------------------------------
+------------------------------------------
+---------AI4---------
+Card name: Orion
+Size: 10
+Speed: 1
+Range: 6
+Firepower: 2
+Cargo: 9
+------------------------------------------
+The round is a draw!
+------------------------------------------
+The communal pile has cards:
+Hurricane 2 5 3 5 0
+Idris 8 2 7 10 6
+Vanguard 3 4 5 5 2
+Hornet 2 5 3 4 1
+Orion 10 1 6 2 9
+------------------------------------------
+HumanPlayer
+Description Size Speed Range Firepower Cargo
+Avenger 2 5 4 3 2
+Sabre 2 7 2 5 0
+Hurricane 2 5 3 5 0
+Vanguard 3 4 5 5 2
+Avenger 2 5 4 3 2
+Vanguard 3 4 5 5 2
+------------------------------------------
+AI1
+Description Size Speed Range Firepower Cargo
+Merchantman 7 3 5 6 8
+------------------------------------------
+AI2
+Description Size Speed Range Firepower Cargo
+Idris 8 2 7 10 6
+------------------------------------------
+AI3
+Description Size Speed Range Firepower Cargo
+Merchantman 7 3 5 6 8
+350r 1 9 2 3 0
+Hawk 1 3 2 4 0
+350r 1 9 2 3 0
+Hurricane 2 5 3 5 0
+350r 1 9 2 3 0
+Constellation 4 5 7 3 4
+Merchantman 7 3 5 6 8
+Avenger 2 5 4 3 2
+Carrack 6 2 10 4 6
+Sabre 2 7 2 5 0
+Hornet 2 5 3 4 1
+m50 1 10 2 2 0
+m50 1 10 2 2 0
+Idris 8 2 7 10 6
+Orion 10 1 6 2 9
+Hawk 1 3 2 4 0
+Hornet 2 5 3 4 1
+Avenger 2 5 4 3 2
+m50 1 10 2 2 0
+Carrack 6 2 10 4 6
+Constellation 4 5 7 3 4
+Hawk 1 3 2 4 0
+Sabre 2 7 2 5 0
+Carrack 6 2 10 4 6
+Constellation 4 5 7 3 4
+------------------------------------------
+AI4
+Description Size Speed Range Firepower Cargo
+Orion 10 1 6 2 9
+------------------------------------------
+Round 8
+------------------------------------------
+---------HumanPlayer---------
+Card name: Avenger
+Size: 2
+Speed: 5
+Range: 4
+Firepower: 3
+Cargo: 2
+------------------------------------------
+The activate player is AI3
+The player selected: Cargo Value: 8
+------------------------------------------
+---------AI1---------
+Card name: Merchantman
+Size: 7
+Speed: 3
+Range: 5
+Firepower: 6
+Cargo: 8
+------------------------------------------
+------------------------------------------
+---------AI2---------
+Card name: Idris
+Size: 8
+Speed: 2
+Range: 7
+Firepower: 10
+Cargo: 6
+------------------------------------------
+------------------------------------------
+---------AI3---------
+Card name: Merchantman
+Size: 7
+Speed: 3
+Range: 5
+Firepower: 6
+Cargo: 8
+------------------------------------------
+------------------------------------------
+---------AI4---------
+Card name: Orion
+Size: 10
+Speed: 1
+Range: 6
+Firepower: 2
+Cargo: 9
+------------------------------------------
+AI4 wins the round!
+The communal pile has no cards now!
+------------------------------------------
+HumanPlayer
+Description Size Speed Range Firepower Cargo
+Sabre 2 7 2 5 0
+Hurricane 2 5 3 5 0
+Vanguard 3 4 5 5 2
+Avenger 2 5 4 3 2
+Vanguard 3 4 5 5 2
+------------------------------------------
+AI1
+Description Size Speed Range Firepower Cargo
+------------------------------------------
+AI2
+Description Size Speed Range Firepower Cargo
+------------------------------------------
+AI3
+Description Size Speed Range Firepower Cargo
+350r 1 9 2 3 0
+Hawk 1 3 2 4 0
+350r 1 9 2 3 0
+Hurricane 2 5 3 5 0
+350r 1 9 2 3 0
+Constellation 4 5 7 3 4
+Merchantman 7 3 5 6 8
+Avenger 2 5 4 3 2
+Carrack 6 2 10 4 6
+Sabre 2 7 2 5 0
+Hornet 2 5 3 4 1
+m50 1 10 2 2 0
+m50 1 10 2 2 0
+Idris 8 2 7 10 6
+Orion 10 1 6 2 9
+Hawk 1 3 2 4 0
+Hornet 2 5 3 4 1
+Avenger 2 5 4 3 2
+m50 1 10 2 2 0
+Carrack 6 2 10 4 6
+Constellation 4 5 7 3 4
+Hawk 1 3 2 4 0
+Sabre 2 7 2 5 0
+Carrack 6 2 10 4 6
+Constellation 4 5 7 3 4
+------------------------------------------
+AI4
+Description Size Speed Range Firepower Cargo
+Hurricane 2 5 3 5 0
+Idris 8 2 7 10 6
+Vanguard 3 4 5 5 2
+Hornet 2 5 3 4 1
+Orion 10 1 6 2 9
+Avenger 2 5 4 3 2
+Merchantman 7 3 5 6 8
+Idris 8 2 7 10 6
+Merchantman 7 3 5 6 8
+Orion 10 1 6 2 9
+------------------------------------------
+Round 9
+------------------------------------------
+---------HumanPlayer---------
+Card name: Sabre
+Size: 2
+Speed: 7
+Range: 2
+Firepower: 5
+Cargo: 0
+------------------------------------------
+The activate player is AI4
+The player selected: Speed Value: 5
+------------------------------------------
+---------AI3---------
+Card name: 350r
+Size: 1
+Speed: 9
+Range: 2
+Firepower: 3
+Cargo: 0
+------------------------------------------
+------------------------------------------
+---------AI4---------
+Card name: Hurricane
+Size: 2
+Speed: 5
+Range: 3
+Firepower: 5
+Cargo: 0
+------------------------------------------
+AI3 wins the round!
+The communal pile has no cards now!
+------------------------------------------
+HumanPlayer
+Description Size Speed Range Firepower Cargo
+Hurricane 2 5 3 5 0
+Vanguard 3 4 5 5 2
+Avenger 2 5 4 3 2
+Vanguard 3 4 5 5 2
+------------------------------------------
+AI3
+Description Size Speed Range Firepower Cargo
+Hawk 1 3 2 4 0
+350r 1 9 2 3 0
+Hurricane 2 5 3 5 0
+350r 1 9 2 3 0
+Constellation 4 5 7 3 4
+Merchantman 7 3 5 6 8
+Avenger 2 5 4 3 2
+Carrack 6 2 10 4 6
+Sabre 2 7 2 5 0
+Hornet 2 5 3 4 1
+m50 1 10 2 2 0
+m50 1 10 2 2 0
+Idris 8 2 7 10 6
+Orion 10 1 6 2 9
+Hawk 1 3 2 4 0
+Hornet 2 5 3 4 1
+Avenger 2 5 4 3 2
+m50 1 10 2 2 0
+Carrack 6 2 10 4 6
+Constellation 4 5 7 3 4
+Hawk 1 3 2 4 0
+Sabre 2 7 2 5 0
+Carrack 6 2 10 4 6
+Constellation 4 5 7 3 4
+Sabre 2 7 2 5 0
+350r 1 9 2 3 0
+Hurricane 2 5 3 5 0
+------------------------------------------
+AI4
+Description Size Speed Range Firepower Cargo
+Idris 8 2 7 10 6
+Vanguard 3 4 5 5 2
+Hornet 2 5 3 4 1
+Orion 10 1 6 2 9
+Avenger 2 5 4 3 2
+Merchantman 7 3 5 6 8
+Idris 8 2 7 10 6
+Merchantman 7 3 5 6 8
+Orion 10 1 6 2 9
+------------------------------------------
+Round 10
+------------------------------------------
+---------HumanPlayer---------
+Card name: Hurricane
+Size: 2
+Speed: 5
+Range: 3
+Firepower: 5
+Cargo: 0
+------------------------------------------
+The activate player is AI3
+The player selected: Firepower Value: 4
+------------------------------------------
+---------AI3---------
+Card name: Hawk
+Size: 1
+Speed: 3
+Range: 2
+Firepower: 4
+Cargo: 0
+------------------------------------------
+------------------------------------------
+---------AI4---------
+Card name: Idris
+Size: 8
+Speed: 2
+Range: 7
+Firepower: 10
+Cargo: 6
+------------------------------------------
+AI4 wins the round!
+The communal pile has no cards now!
+------------------------------------------
+HumanPlayer
+Description Size Speed Range Firepower Cargo
+Vanguard 3 4 5 5 2
+Avenger 2 5 4 3 2
+Vanguard 3 4 5 5 2
+------------------------------------------
+AI3
+Description Size Speed Range Firepower Cargo
+350r 1 9 2 3 0
+Hurricane 2 5 3 5 0
+350r 1 9 2 3 0
+Constellation 4 5 7 3 4
+Merchantman 7 3 5 6 8
+Avenger 2 5 4 3 2
+Carrack 6 2 10 4 6
+Sabre 2 7 2 5 0
+Hornet 2 5 3 4 1
+m50 1 10 2 2 0
+m50 1 10 2 2 0
+Idris 8 2 7 10 6
+Orion 10 1 6 2 9
+Hawk 1 3 2 4 0
+Hornet 2 5 3 4 1
+Avenger 2 5 4 3 2
+m50 1 10 2 2 0
+Carrack 6 2 10 4 6
+Constellation 4 5 7 3 4
+Hawk 1 3 2 4 0
+Sabre 2 7 2 5 0
+Carrack 6 2 10 4 6
+Constellation 4 5 7 3 4
+Sabre 2 7 2 5 0
+350r 1 9 2 3 0
+Hurricane 2 5 3 5 0
+------------------------------------------
+AI4
+Description Size Speed Range Firepower Cargo
+Vanguard 3 4 5 5 2
+Hornet 2 5 3 4 1
+Orion 10 1 6 2 9
+Avenger 2 5 4 3 2
+Merchantman 7 3 5 6 8
+Idris 8 2 7 10 6
+Merchantman 7 3 5 6 8
+Orion 10 1 6 2 9
+Hurricane 2 5 3 5 0
+Hawk 1 3 2 4 0
+Idris 8 2 7 10 6
+------------------------------------------
+Round 11
+------------------------------------------
+---------HumanPlayer---------
+Card name: Vanguard
+Size: 3
+Speed: 4
+Range: 5
+Firepower: 5
+Cargo: 2
+------------------------------------------
+The activate player is AI4
+The player selected: Range Value: 5
+------------------------------------------
+---------AI3---------
+Card name: 350r
+Size: 1
+Speed: 9
+Range: 2
+Firepower: 3
+Cargo: 0
+------------------------------------------
+------------------------------------------
+---------AI4---------
+Card name: Vanguard
+Size: 3
+Speed: 4
+Range: 5
+Firepower: 5
+Cargo: 2
+------------------------------------------
+The round is a draw!
+------------------------------------------
+The communal pile has cards:
+Vanguard 3 4 5 5 2
+350r 1 9 2 3 0
+Vanguard 3 4 5 5 2
+------------------------------------------
+HumanPlayer
+Description Size Speed Range Firepower Cargo
+Avenger 2 5 4 3 2
+Vanguard 3 4 5 5 2
+------------------------------------------
+AI3
+Description Size Speed Range Firepower Cargo
+Hurricane 2 5 3 5 0
+350r 1 9 2 3 0
+Constellation 4 5 7 3 4
+Merchantman 7 3 5 6 8
+Avenger 2 5 4 3 2
+Carrack 6 2 10 4 6
+Sabre 2 7 2 5 0
+Hornet 2 5 3 4 1
+m50 1 10 2 2 0
+m50 1 10 2 2 0
+Idris 8 2 7 10 6
+Orion 10 1 6 2 9
+Hawk 1 3 2 4 0
+Hornet 2 5 3 4 1
+Avenger 2 5 4 3 2
+m50 1 10 2 2 0
+Carrack 6 2 10 4 6
+Constellation 4 5 7 3 4
+Hawk 1 3 2 4 0
+Sabre 2 7 2 5 0
+Carrack 6 2 10 4 6
+Constellation 4 5 7 3 4
+Sabre 2 7 2 5 0
+350r 1 9 2 3 0
+Hurricane 2 5 3 5 0
+------------------------------------------
+AI4
+Description Size Speed Range Firepower Cargo
+Hornet 2 5 3 4 1
+Orion 10 1 6 2 9
+Avenger 2 5 4 3 2
+Merchantman 7 3 5 6 8
+Idris 8 2 7 10 6
+Merchantman 7 3 5 6 8
+Orion 10 1 6 2 9
+Hurricane 2 5 3 5 0
+Hawk 1 3 2 4 0
+Idris 8 2 7 10 6
+------------------------------------------
+Round 12
+------------------------------------------
+---------HumanPlayer---------
+Card name: Avenger
+Size: 2
+Speed: 5
+Range: 4
+Firepower: 3
+Cargo: 2
+------------------------------------------
+The activate player is AI4
+The player selected: Speed Value: 5
+------------------------------------------
+---------AI3---------
+Card name: Hurricane
+Size: 2
+Speed: 5
+Range: 3
+Firepower: 5
+Cargo: 0
+------------------------------------------
+------------------------------------------
+---------AI4---------
+Card name: Hornet
+Size: 2
+Speed: 5
+Range: 3
+Firepower: 4
+Cargo: 1
+------------------------------------------
+The round is a draw!
+------------------------------------------
+The communal pile has cards:
+Vanguard 3 4 5 5 2
+350r 1 9 2 3 0
+Vanguard 3 4 5 5 2
+Avenger 2 5 4 3 2
+Hurricane 2 5 3 5 0
+Hornet 2 5 3 4 1
+------------------------------------------
+HumanPlayer
+Description Size Speed Range Firepower Cargo
+Vanguard 3 4 5 5 2
+------------------------------------------
+AI3
+Description Size Speed Range Firepower Cargo
+350r 1 9 2 3 0
+Constellation 4 5 7 3 4
+Merchantman 7 3 5 6 8
+Avenger 2 5 4 3 2
+Carrack 6 2 10 4 6
+Sabre 2 7 2 5 0
+Hornet 2 5 3 4 1
+m50 1 10 2 2 0
+m50 1 10 2 2 0
+Idris 8 2 7 10 6
+Orion 10 1 6 2 9
+Hawk 1 3 2 4 0
+Hornet 2 5 3 4 1
+Avenger 2 5 4 3 2
+m50 1 10 2 2 0
+Carrack 6 2 10 4 6
+Constellation 4 5 7 3 4
+Hawk 1 3 2 4 0
+Sabre 2 7 2 5 0
+Carrack 6 2 10 4 6
+Constellation 4 5 7 3 4
+Sabre 2 7 2 5 0
+350r 1 9 2 3 0
+Hurricane 2 5 3 5 0
+------------------------------------------
+AI4
+Description Size Speed Range Firepower Cargo
+Orion 10 1 6 2 9
+Avenger 2 5 4 3 2
+Merchantman 7 3 5 6 8
+Idris 8 2 7 10 6
+Merchantman 7 3 5 6 8
+Orion 10 1 6 2 9
+Hurricane 2 5 3 5 0
+Hawk 1 3 2 4 0
+Idris 8 2 7 10 6
+------------------------------------------
+Round 13
+------------------------------------------
+---------HumanPlayer---------
+Card name: Vanguard
+Size: 3
+Speed: 4
+Range: 5
+Firepower: 5
+Cargo: 2
+------------------------------------------
+The activate player is AI4
+The player selected: Size Value: 10
+------------------------------------------
+---------AI3---------
+Card name: 350r
+Size: 1
+Speed: 9
+Range: 2
+Firepower: 3
+Cargo: 0
+------------------------------------------
+------------------------------------------
+---------AI4---------
+Card name: Orion
+Size: 10
+Speed: 1
+Range: 6
+Firepower: 2
+Cargo: 9
+------------------------------------------
+AI4 wins the round!
+The communal pile has no cards now!
+------------------------------------------
+HumanPlayer
+Description Size Speed Range Firepower Cargo
+------------------------------------------
+AI3
+Description Size Speed Range Firepower Cargo
+Constellation 4 5 7 3 4
+Merchantman 7 3 5 6 8
+Avenger 2 5 4 3 2
+Carrack 6 2 10 4 6
+Sabre 2 7 2 5 0
+Hornet 2 5 3 4 1
+m50 1 10 2 2 0
+m50 1 10 2 2 0
+Idris 8 2 7 10 6
+Orion 10 1 6 2 9
+Hawk 1 3 2 4 0
+Hornet 2 5 3 4 1
+Avenger 2 5 4 3 2
+m50 1 10 2 2 0
+Carrack 6 2 10 4 6
+Constellation 4 5 7 3 4
+Hawk 1 3 2 4 0
+Sabre 2 7 2 5 0
+Carrack 6 2 10 4 6
+Constellation 4 5 7 3 4
+Sabre 2 7 2 5 0
+350r 1 9 2 3 0
+Hurricane 2 5 3 5 0
+------------------------------------------
+AI4
+Description Size Speed Range Firepower Cargo
+Avenger 2 5 4 3 2
+Merchantman 7 3 5 6 8
+Idris 8 2 7 10 6
+Merchantman 7 3 5 6 8
+Orion 10 1 6 2 9
+Hurricane 2 5 3 5 0
+Hawk 1 3 2 4 0
+Idris 8 2 7 10 6
+Vanguard 3 4 5 5 2
+350r 1 9 2 3 0
+Vanguard 3 4 5 5 2
+Avenger 2 5 4 3 2
+Hurricane 2 5 3 5 0
+Hornet 2 5 3 4 1
+Vanguard 3 4 5 5 2
+350r 1 9 2 3 0
+Orion 10 1 6 2 9
+------------------------------------------
+Round 14
+The activate player is AI4
+The player selected: Speed Value: 5
+AI4 wins the round!
+AI3
+Description Size Speed Range Firepower Cargo
+Merchantman 7 3 5 6 8
+Avenger 2 5 4 3 2
+Carrack 6 2 10 4 6
+Sabre 2 7 2 5 0
+Hornet 2 5 3 4 1
+m50 1 10 2 2 0
+m50 1 10 2 2 0
+Idris 8 2 7 10 6
+Orion 10 1 6 2 9
+Hawk 1 3 2 4 0
+Hornet 2 5 3 4 1
+Avenger 2 5 4 3 2
+m50 1 10 2 2 0
+Carrack 6 2 10 4 6
+Constellation 4 5 7 3 4
+Hawk 1 3 2 4 0
+Sabre 2 7 2 5 0
+Carrack 6 2 10 4 6
+Constellation 4 5 7 3 4
+Sabre 2 7 2 5 0
+350r 1 9 2 3 0
+Hurricane 2 5 3 5 0
+------------------------------------------
+AI4
+Description Size Speed Range Firepower Cargo
+Merchantman 7 3 5 6 8
+Idris 8 2 7 10 6
+Merchantman 7 3 5 6 8
+Orion 10 1 6 2 9
+Hurricane 2 5 3 5 0
+Hawk 1 3 2 4 0
+Idris 8 2 7 10 6
+Vanguard 3 4 5 5 2
+350r 1 9 2 3 0
+Vanguard 3 4 5 5 2
+Avenger 2 5 4 3 2
+Hurricane 2 5 3 5 0
+Hornet 2 5 3 4 1
+Vanguard 3 4 5 5 2
+350r 1 9 2 3 0
+Orion 10 1 6 2 9
+------------------------------------------
+The communal pile has cards:
+Constellation 4 5 7 3 4
+Avenger 2 5 4 3 2
+------------------------------------------
+Round 15
+The activate player is AI4
+The player selected: Cargo Value: 8
+AI4 wins the round!
+AI3
+Description Size Speed Range Firepower Cargo
+Avenger 2 5 4 3 2
+Carrack 6 2 10 4 6
+Sabre 2 7 2 5 0
+Hornet 2 5 3 4 1
+m50 1 10 2 2 0
+m50 1 10 2 2 0
+Idris 8 2 7 10 6
+Orion 10 1 6 2 9
+Hawk 1 3 2 4 0
+Hornet 2 5 3 4 1
+Avenger 2 5 4 3 2
+m50 1 10 2 2 0
+Carrack 6 2 10 4 6
+Constellation 4 5 7 3 4
+Hawk 1 3 2 4 0
+Sabre 2 7 2 5 0
+Carrack 6 2 10 4 6
+Constellation 4 5 7 3 4
+Sabre 2 7 2 5 0
+350r 1 9 2 3 0
+Hurricane 2 5 3 5 0
+------------------------------------------
+AI4
+Description Size Speed Range Firepower Cargo
+Idris 8 2 7 10 6
+Merchantman 7 3 5 6 8
+Orion 10 1 6 2 9
+Hurricane 2 5 3 5 0
+Hawk 1 3 2 4 0
+Idris 8 2 7 10 6
+Vanguard 3 4 5 5 2
+350r 1 9 2 3 0
+Vanguard 3 4 5 5 2
+Avenger 2 5 4 3 2
+Hurricane 2 5 3 5 0
+Hornet 2 5 3 4 1
+Vanguard 3 4 5 5 2
+350r 1 9 2 3 0
+Orion 10 1 6 2 9
+------------------------------------------
+The communal pile has cards:
+Constellation 4 5 7 3 4
+Avenger 2 5 4 3 2
+Merchantman 7 3 5 6 8
+Merchantman 7 3 5 6 8
+------------------------------------------
+Round 16
+The activate player is AI4
+The player selected: Firepower Value: 10
+AI4 wins the round!
+AI3
+Description Size Speed Range Firepower Cargo
+Carrack 6 2 10 4 6
+Sabre 2 7 2 5 0
+Hornet 2 5 3 4 1
+m50 1 10 2 2 0
+m50 1 10 2 2 0
+Idris 8 2 7 10 6
+Orion 10 1 6 2 9
+Hawk 1 3 2 4 0
+Hornet 2 5 3 4 1
+Avenger 2 5 4 3 2
+m50 1 10 2 2 0
+Carrack 6 2 10 4 6
+Constellation 4 5 7 3 4
+Hawk 1 3 2 4 0
+Sabre 2 7 2 5 0
+Carrack 6 2 10 4 6
+Constellation 4 5 7 3 4
+Sabre 2 7 2 5 0
+350r 1 9 2 3 0
+Hurricane 2 5 3 5 0
+------------------------------------------
+AI4
+Description Size Speed Range Firepower Cargo
+Merchantman 7 3 5 6 8
+Orion 10 1 6 2 9
+Hurricane 2 5 3 5 0
+Hawk 1 3 2 4 0
+Idris 8 2 7 10 6
+Vanguard 3 4 5 5 2
+350r 1 9 2 3 0
+Vanguard 3 4 5 5 2
+Avenger 2 5 4 3 2
+Hurricane 2 5 3 5 0
+Hornet 2 5 3 4 1
+Vanguard 3 4 5 5 2
+350r 1 9 2 3 0
+Orion 10 1 6 2 9
+Constellation 4 5 7 3 4
+Avenger 2 5 4 3 2
+Merchantman 7 3 5 6 8
+Merchantman 7 3 5 6 8
+Avenger 2 5 4 3 2
+Idris 8 2 7 10 6
+------------------------------------------
+The communal pile has no cards now!
+------------------------------------------
+Round 17
+The activate player is AI4
+The player selected: Cargo Value: 8
+AI4 wins the round!
+AI3
+Description Size Speed Range Firepower Cargo
+Sabre 2 7 2 5 0
+Hornet 2 5 3 4 1
+m50 1 10 2 2 0
+m50 1 10 2 2 0
+Idris 8 2 7 10 6
+Orion 10 1 6 2 9
+Hawk 1 3 2 4 0
+Hornet 2 5 3 4 1
+Avenger 2 5 4 3 2
+m50 1 10 2 2 0
+Carrack 6 2 10 4 6
+Constellation 4 5 7 3 4
+Hawk 1 3 2 4 0
+Sabre 2 7 2 5 0
+Carrack 6 2 10 4 6
+Constellation 4 5 7 3 4
+Sabre 2 7 2 5 0
+350r 1 9 2 3 0
+Hurricane 2 5 3 5 0
+------------------------------------------
+AI4
+Description Size Speed Range Firepower Cargo
+Orion 10 1 6 2 9
+Hurricane 2 5 3 5 0
+Hawk 1 3 2 4 0
+Idris 8 2 7 10 6
+Vanguard 3 4 5 5 2
+350r 1 9 2 3 0
+Vanguard 3 4 5 5 2
+Avenger 2 5 4 3 2
+Hurricane 2 5 3 5 0
+Hornet 2 5 3 4 1
+Vanguard 3 4 5 5 2
+350r 1 9 2 3 0
+Orion 10 1 6 2 9
+Constellation 4 5 7 3 4
+Avenger 2 5 4 3 2
+Merchantman 7 3 5 6 8
+Merchantman 7 3 5 6 8
+Avenger 2 5 4 3 2
+Idris 8 2 7 10 6
+Carrack 6 2 10 4 6
+Merchantman 7 3 5 6 8
+------------------------------------------
+The communal pile has no cards now!
+------------------------------------------
+Round 18
+The activate player is AI4
+The player selected: Size Value: 10
+AI4 wins the round!
+AI3
+Description Size Speed Range Firepower Cargo
+Hornet 2 5 3 4 1
+m50 1 10 2 2 0
+m50 1 10 2 2 0
+Idris 8 2 7 10 6
+Orion 10 1 6 2 9
+Hawk 1 3 2 4 0
+Hornet 2 5 3 4 1
+Avenger 2 5 4 3 2
+m50 1 10 2 2 0
+Carrack 6 2 10 4 6
+Constellation 4 5 7 3 4
+Hawk 1 3 2 4 0
+Sabre 2 7 2 5 0
+Carrack 6 2 10 4 6
+Constellation 4 5 7 3 4
+Sabre 2 7 2 5 0
+350r 1 9 2 3 0
+Hurricane 2 5 3 5 0
+------------------------------------------
+AI4
+Description Size Speed Range Firepower Cargo
+Hurricane 2 5 3 5 0
+Hawk 1 3 2 4 0
+Idris 8 2 7 10 6
+Vanguard 3 4 5 5 2
+350r 1 9 2 3 0
+Vanguard 3 4 5 5 2
+Avenger 2 5 4 3 2
+Hurricane 2 5 3 5 0
+Hornet 2 5 3 4 1
+Vanguard 3 4 5 5 2
+350r 1 9 2 3 0
+Orion 10 1 6 2 9
+Constellation 4 5 7 3 4
+Avenger 2 5 4 3 2
+Merchantman 7 3 5 6 8
+Merchantman 7 3 5 6 8
+Avenger 2 5 4 3 2
+Idris 8 2 7 10 6
+Carrack 6 2 10 4 6
+Merchantman 7 3 5 6 8
+Sabre 2 7 2 5 0
+Orion 10 1 6 2 9
+------------------------------------------
+The communal pile has no cards now!
+------------------------------------------
+Round 19
+The activate player is AI4
+The player selected: Speed Value: 5
+AI4 wins the round!
+AI3
+Description Size Speed Range Firepower Cargo
+m50 1 10 2 2 0
+m50 1 10 2 2 0
+Idris 8 2 7 10 6
+Orion 10 1 6 2 9
+Hawk 1 3 2 4 0
+Hornet 2 5 3 4 1
+Avenger 2 5 4 3 2
+m50 1 10 2 2 0
+Carrack 6 2 10 4 6
+Constellation 4 5 7 3 4
+Hawk 1 3 2 4 0
+Sabre 2 7 2 5 0
+Carrack 6 2 10 4 6
+Constellation 4 5 7 3 4
+Sabre 2 7 2 5 0
+350r 1 9 2 3 0
+Hurricane 2 5 3 5 0
+------------------------------------------
+AI4
+Description Size Speed Range Firepower Cargo
+Hawk 1 3 2 4 0
+Idris 8 2 7 10 6
+Vanguard 3 4 5 5 2
+350r 1 9 2 3 0
+Vanguard 3 4 5 5 2
+Avenger 2 5 4 3 2
+Hurricane 2 5 3 5 0
+Hornet 2 5 3 4 1
+Vanguard 3 4 5 5 2
+350r 1 9 2 3 0
+Orion 10 1 6 2 9
+Constellation 4 5 7 3 4
+Avenger 2 5 4 3 2
+Merchantman 7 3 5 6 8
+Merchantman 7 3 5 6 8
+Avenger 2 5 4 3 2
+Idris 8 2 7 10 6
+Carrack 6 2 10 4 6
+Merchantman 7 3 5 6 8
+Sabre 2 7 2 5 0
+Orion 10 1 6 2 9
+------------------------------------------
+The communal pile has cards:
+Hornet 2 5 3 4 1
+Hurricane 2 5 3 5 0
+------------------------------------------
+Round 20
+The activate player is AI4
+The player selected: Firepower Value: 4
+AI4 wins the round!
+AI3
+Description Size Speed Range Firepower Cargo
+m50 1 10 2 2 0
+Idris 8 2 7 10 6
+Orion 10 1 6 2 9
+Hawk 1 3 2 4 0
+Hornet 2 5 3 4 1
+Avenger 2 5 4 3 2
+m50 1 10 2 2 0
+Carrack 6 2 10 4 6
+Constellation 4 5 7 3 4
+Hawk 1 3 2 4 0
+Sabre 2 7 2 5 0
+Carrack 6 2 10 4 6
+Constellation 4 5 7 3 4
+Sabre 2 7 2 5 0
+350r 1 9 2 3 0
+Hurricane 2 5 3 5 0
+------------------------------------------
+AI4
+Description Size Speed Range Firepower Cargo
+Idris 8 2 7 10 6
+Vanguard 3 4 5 5 2
+350r 1 9 2 3 0
+Vanguard 3 4 5 5 2
+Avenger 2 5 4 3 2
+Hurricane 2 5 3 5 0
+Hornet 2 5 3 4 1
+Vanguard 3 4 5 5 2
+350r 1 9 2 3 0
+Orion 10 1 6 2 9
+Constellation 4 5 7 3 4
+Avenger 2 5 4 3 2
+Merchantman 7 3 5 6 8
+Merchantman 7 3 5 6 8
+Avenger 2 5 4 3 2
+Idris 8 2 7 10 6
+Carrack 6 2 10 4 6
+Merchantman 7 3 5 6 8
+Sabre 2 7 2 5 0
+Orion 10 1 6 2 9
+Hornet 2 5 3 4 1
+Hurricane 2 5 3 5 0
+m50 1 10 2 2 0
+Hawk 1 3 2 4 0
+------------------------------------------
+The communal pile has no cards now!
+------------------------------------------
+Round 21
+The activate player is AI4
+The player selected: Firepower Value: 10
+AI4 wins the round!
+AI3
+Description Size Speed Range Firepower Cargo
+Idris 8 2 7 10 6
+Orion 10 1 6 2 9
+Hawk 1 3 2 4 0
+Hornet 2 5 3 4 1
+Avenger 2 5 4 3 2
+m50 1 10 2 2 0
+Carrack 6 2 10 4 6
+Constellation 4 5 7 3 4
+Hawk 1 3 2 4 0
+Sabre 2 7 2 5 0
+Carrack 6 2 10 4 6
+Constellation 4 5 7 3 4
+Sabre 2 7 2 5 0
+350r 1 9 2 3 0
+Hurricane 2 5 3 5 0
+------------------------------------------
+AI4
+Description Size Speed Range Firepower Cargo
+Vanguard 3 4 5 5 2
+350r 1 9 2 3 0
+Vanguard 3 4 5 5 2
+Avenger 2 5 4 3 2
+Hurricane 2 5 3 5 0
+Hornet 2 5 3 4 1
+Vanguard 3 4 5 5 2
+350r 1 9 2 3 0
+Orion 10 1 6 2 9
+Constellation 4 5 7 3 4
+Avenger 2 5 4 3 2
+Merchantman 7 3 5 6 8
+Merchantman 7 3 5 6 8
+Avenger 2 5 4 3 2
+Idris 8 2 7 10 6
+Carrack 6 2 10 4 6
+Merchantman 7 3 5 6 8
+Sabre 2 7 2 5 0
+Orion 10 1 6 2 9
+Hornet 2 5 3 4 1
+Hurricane 2 5 3 5 0
+m50 1 10 2 2 0
+Hawk 1 3 2 4 0
+m50 1 10 2 2 0
+Idris 8 2 7 10 6
+------------------------------------------
+The communal pile has no cards now!
+------------------------------------------
+Round 22
+The activate player is AI4
+The player selected: Range Value: 5
+AI3 wins the round!
+AI3
+Description Size Speed Range Firepower Cargo
+Orion 10 1 6 2 9
+Hawk 1 3 2 4 0
+Hornet 2 5 3 4 1
+Avenger 2 5 4 3 2
+m50 1 10 2 2 0
+Carrack 6 2 10 4 6
+Constellation 4 5 7 3 4
+Hawk 1 3 2 4 0
+Sabre 2 7 2 5 0
+Carrack 6 2 10 4 6
+Constellation 4 5 7 3 4
+Sabre 2 7 2 5 0
+350r 1 9 2 3 0
+Hurricane 2 5 3 5 0
+Idris 8 2 7 10 6
+Vanguard 3 4 5 5 2
+------------------------------------------
+AI4
+Description Size Speed Range Firepower Cargo
+350r 1 9 2 3 0
+Vanguard 3 4 5 5 2
+Avenger 2 5 4 3 2
+Hurricane 2 5 3 5 0
+Hornet 2 5 3 4 1
+Vanguard 3 4 5 5 2
+350r 1 9 2 3 0
+Orion 10 1 6 2 9
+Constellation 4 5 7 3 4
+Avenger 2 5 4 3 2
+Merchantman 7 3 5 6 8
+Merchantman 7 3 5 6 8
+Avenger 2 5 4 3 2
+Idris 8 2 7 10 6
+Carrack 6 2 10 4 6
+Merchantman 7 3 5 6 8
+Sabre 2 7 2 5 0
+Orion 10 1 6 2 9
+Hornet 2 5 3 4 1
+Hurricane 2 5 3 5 0
+m50 1 10 2 2 0
+Hawk 1 3 2 4 0
+m50 1 10 2 2 0
+Idris 8 2 7 10 6
+------------------------------------------
+The communal pile has no cards now!
+------------------------------------------
+Round 23
+The activate player is AI3
+The player selected: Size Value: 10
+AI3 wins the round!
+AI3
+Description Size Speed Range Firepower Cargo
+Hawk 1 3 2 4 0
+Hornet 2 5 3 4 1
+Avenger 2 5 4 3 2
+m50 1 10 2 2 0
+Carrack 6 2 10 4 6
+Constellation 4 5 7 3 4
+Hawk 1 3 2 4 0
+Sabre 2 7 2 5 0
+Carrack 6 2 10 4 6
+Constellation 4 5 7 3 4
+Sabre 2 7 2 5 0
+350r 1 9 2 3 0
+Hurricane 2 5 3 5 0
+Idris 8 2 7 10 6
+Vanguard 3 4 5 5 2
+Orion 10 1 6 2 9
+350r 1 9 2 3 0
+------------------------------------------
+AI4
+Description Size Speed Range Firepower Cargo
+Vanguard 3 4 5 5 2
+Avenger 2 5 4 3 2
+Hurricane 2 5 3 5 0
+Hornet 2 5 3 4 1
+Vanguard 3 4 5 5 2
+350r 1 9 2 3 0
+Orion 10 1 6 2 9
+Constellation 4 5 7 3 4
+Avenger 2 5 4 3 2
+Merchantman 7 3 5 6 8
+Merchantman 7 3 5 6 8
+Avenger 2 5 4 3 2
+Idris 8 2 7 10 6
+Carrack 6 2 10 4 6
+Merchantman 7 3 5 6 8
+Sabre 2 7 2 5 0
+Orion 10 1 6 2 9
+Hornet 2 5 3 4 1
+Hurricane 2 5 3 5 0
+m50 1 10 2 2 0
+Hawk 1 3 2 4 0
+m50 1 10 2 2 0
+Idris 8 2 7 10 6
+------------------------------------------
+The communal pile has no cards now!
+------------------------------------------
+Round 24
+The activate player is AI3
+The player selected: Firepower Value: 4
+AI4 wins the round!
+AI3
+Description Size Speed Range Firepower Cargo
+Hornet 2 5 3 4 1
+Avenger 2 5 4 3 2
+m50 1 10 2 2 0
+Carrack 6 2 10 4 6
+Constellation 4 5 7 3 4
+Hawk 1 3 2 4 0
+Sabre 2 7 2 5 0
+Carrack 6 2 10 4 6
+Constellation 4 5 7 3 4
+Sabre 2 7 2 5 0
+350r 1 9 2 3 0
+Hurricane 2 5 3 5 0
+Idris 8 2 7 10 6
+Vanguard 3 4 5 5 2
+Orion 10 1 6 2 9
+350r 1 9 2 3 0
+------------------------------------------
+AI4
+Description Size Speed Range Firepower Cargo
+Avenger 2 5 4 3 2
+Hurricane 2 5 3 5 0
+Hornet 2 5 3 4 1
+Vanguard 3 4 5 5 2
+350r 1 9 2 3 0
+Orion 10 1 6 2 9
+Constellation 4 5 7 3 4
+Avenger 2 5 4 3 2
+Merchantman 7 3 5 6 8
+Merchantman 7 3 5 6 8
+Avenger 2 5 4 3 2
+Idris 8 2 7 10 6
+Carrack 6 2 10 4 6
+Merchantman 7 3 5 6 8
+Sabre 2 7 2 5 0
+Orion 10 1 6 2 9
+Hornet 2 5 3 4 1
+Hurricane 2 5 3 5 0
+m50 1 10 2 2 0
+Hawk 1 3 2 4 0
+m50 1 10 2 2 0
+Idris 8 2 7 10 6
+Hawk 1 3 2 4 0
+Vanguard 3 4 5 5 2
+------------------------------------------
+The communal pile has no cards now!
+------------------------------------------
+Round 25
+The activate player is AI4
+The player selected: Speed Value: 5
+AI4 wins the round!
+AI3
+Description Size Speed Range Firepower Cargo
+Avenger 2 5 4 3 2
+m50 1 10 2 2 0
+Carrack 6 2 10 4 6
+Constellation 4 5 7 3 4
+Hawk 1 3 2 4 0
+Sabre 2 7 2 5 0
+Carrack 6 2 10 4 6
+Constellation 4 5 7 3 4
+Sabre 2 7 2 5 0
+350r 1 9 2 3 0
+Hurricane 2 5 3 5 0
+Idris 8 2 7 10 6
+Vanguard 3 4 5 5 2
+Orion 10 1 6 2 9
+350r 1 9 2 3 0
+------------------------------------------
+AI4
+Description Size Speed Range Firepower Cargo
+Hurricane 2 5 3 5 0
+Hornet 2 5 3 4 1
+Vanguard 3 4 5 5 2
+350r 1 9 2 3 0
+Orion 10 1 6 2 9
+Constellation 4 5 7 3 4
+Avenger 2 5 4 3 2
+Merchantman 7 3 5 6 8
+Merchantman 7 3 5 6 8
+Avenger 2 5 4 3 2
+Idris 8 2 7 10 6
+Carrack 6 2 10 4 6
+Merchantman 7 3 5 6 8
+Sabre 2 7 2 5 0
+Orion 10 1 6 2 9
+Hornet 2 5 3 4 1
+Hurricane 2 5 3 5 0
+m50 1 10 2 2 0
+Hawk 1 3 2 4 0
+m50 1 10 2 2 0
+Idris 8 2 7 10 6
+Hawk 1 3 2 4 0
+Vanguard 3 4 5 5 2
+------------------------------------------
+The communal pile has cards:
+Hornet 2 5 3 4 1
+Avenger 2 5 4 3 2
+------------------------------------------
+Round 26
+The activate player is AI4
+The player selected: Speed Value: 5
+AI4 wins the round!
+AI3
+Description Size Speed Range Firepower Cargo
+m50 1 10 2 2 0
+Carrack 6 2 10 4 6
+Constellation 4 5 7 3 4
+Hawk 1 3 2 4 0
+Sabre 2 7 2 5 0
+Carrack 6 2 10 4 6
+Constellation 4 5 7 3 4
+Sabre 2 7 2 5 0
+350r 1 9 2 3 0
+Hurricane 2 5 3 5 0
+Idris 8 2 7 10 6
+Vanguard 3 4 5 5 2
+Orion 10 1 6 2 9
+350r 1 9 2 3 0
+------------------------------------------
+AI4
+Description Size Speed Range Firepower Cargo
+Hornet 2 5 3 4 1
+Vanguard 3 4 5 5 2
+350r 1 9 2 3 0
+Orion 10 1 6 2 9
+Constellation 4 5 7 3 4
+Avenger 2 5 4 3 2
+Merchantman 7 3 5 6 8
+Merchantman 7 3 5 6 8
+Avenger 2 5 4 3 2
+Idris 8 2 7 10 6
+Carrack 6 2 10 4 6
+Merchantman 7 3 5 6 8
+Sabre 2 7 2 5 0
+Orion 10 1 6 2 9
+Hornet 2 5 3 4 1
+Hurricane 2 5 3 5 0
+m50 1 10 2 2 0
+Hawk 1 3 2 4 0
+m50 1 10 2 2 0
+Idris 8 2 7 10 6
+Hawk 1 3 2 4 0
+Vanguard 3 4 5 5 2
+------------------------------------------
+The communal pile has cards:
+Hornet 2 5 3 4 1
+Avenger 2 5 4 3 2
+Avenger 2 5 4 3 2
+Hurricane 2 5 3 5 0
+------------------------------------------
+Round 27
+The activate player is AI4
+The player selected: Speed Value: 5
+AI3 wins the round!
+AI3
+Description Size Speed Range Firepower Cargo
+Carrack 6 2 10 4 6
+Constellation 4 5 7 3 4
+Hawk 1 3 2 4 0
+Sabre 2 7 2 5 0
+Carrack 6 2 10 4 6
+Constellation 4 5 7 3 4
+Sabre 2 7 2 5 0
+350r 1 9 2 3 0
+Hurricane 2 5 3 5 0
+Idris 8 2 7 10 6
+Vanguard 3 4 5 5 2
+Orion 10 1 6 2 9
+350r 1 9 2 3 0
+Hornet 2 5 3 4 1
+Avenger 2 5 4 3 2
+Avenger 2 5 4 3 2
+Hurricane 2 5 3 5 0
+m50 1 10 2 2 0
+Hornet 2 5 3 4 1
+------------------------------------------
+AI4
+Description Size Speed Range Firepower Cargo
+Vanguard 3 4 5 5 2
+350r 1 9 2 3 0
+Orion 10 1 6 2 9
+Constellation 4 5 7 3 4
+Avenger 2 5 4 3 2
+Merchantman 7 3 5 6 8
+Merchantman 7 3 5 6 8
+Avenger 2 5 4 3 2
+Idris 8 2 7 10 6
+Carrack 6 2 10 4 6
+Merchantman 7 3 5 6 8
+Sabre 2 7 2 5 0
+Orion 10 1 6 2 9
+Hornet 2 5 3 4 1
+Hurricane 2 5 3 5 0
+m50 1 10 2 2 0
+Hawk 1 3 2 4 0
+m50 1 10 2 2 0
+Idris 8 2 7 10 6
+Hawk 1 3 2 4 0
+Vanguard 3 4 5 5 2
+------------------------------------------
+The communal pile has no cards now!
+------------------------------------------
+Round 28
+The activate player is AI3
+The player selected: Range Value: 10
+AI3 wins the round!
+AI3
+Description Size Speed Range Firepower Cargo
+Constellation 4 5 7 3 4
+Hawk 1 3 2 4 0
+Sabre 2 7 2 5 0
+Carrack 6 2 10 4 6
+Constellation 4 5 7 3 4
+Sabre 2 7 2 5 0
+350r 1 9 2 3 0
+Hurricane 2 5 3 5 0
+Idris 8 2 7 10 6
+Vanguard 3 4 5 5 2
+Orion 10 1 6 2 9
+350r 1 9 2 3 0
+Hornet 2 5 3 4 1
+Avenger 2 5 4 3 2
+Avenger 2 5 4 3 2
+Hurricane 2 5 3 5 0
+m50 1 10 2 2 0
+Hornet 2 5 3 4 1
+Carrack 6 2 10 4 6
+Vanguard 3 4 5 5 2
+------------------------------------------
+AI4
+Description Size Speed Range Firepower Cargo
+350r 1 9 2 3 0
+Orion 10 1 6 2 9
+Constellation 4 5 7 3 4
+Avenger 2 5 4 3 2
+Merchantman 7 3 5 6 8
+Merchantman 7 3 5 6 8
+Avenger 2 5 4 3 2
+Idris 8 2 7 10 6
+Carrack 6 2 10 4 6
+Merchantman 7 3 5 6 8
+Sabre 2 7 2 5 0
+Orion 10 1 6 2 9
+Hornet 2 5 3 4 1
+Hurricane 2 5 3 5 0
+m50 1 10 2 2 0
+Hawk 1 3 2 4 0
+m50 1 10 2 2 0
+Idris 8 2 7 10 6
+Hawk 1 3 2 4 0
+Vanguard 3 4 5 5 2
+------------------------------------------
+The communal pile has no cards now!
+------------------------------------------
+Round 29
+The activate player is AI3
+The player selected: Range Value: 7
+AI3 wins the round!
+AI3
+Description Size Speed Range Firepower Cargo
+Hawk 1 3 2 4 0
+Sabre 2 7 2 5 0
+Carrack 6 2 10 4 6
+Constellation 4 5 7 3 4
+Sabre 2 7 2 5 0
+350r 1 9 2 3 0
+Hurricane 2 5 3 5 0
+Idris 8 2 7 10 6
+Vanguard 3 4 5 5 2
+Orion 10 1 6 2 9
+350r 1 9 2 3 0
+Hornet 2 5 3 4 1
+Avenger 2 5 4 3 2
+Avenger 2 5 4 3 2
+Hurricane 2 5 3 5 0
+m50 1 10 2 2 0
+Hornet 2 5 3 4 1
+Carrack 6 2 10 4 6
+Vanguard 3 4 5 5 2
+Constellation 4 5 7 3 4
+350r 1 9 2 3 0
+------------------------------------------
+AI4
+Description Size Speed Range Firepower Cargo
+Orion 10 1 6 2 9
+Constellation 4 5 7 3 4
+Avenger 2 5 4 3 2
+Merchantman 7 3 5 6 8
+Merchantman 7 3 5 6 8
+Avenger 2 5 4 3 2
+Idris 8 2 7 10 6
+Carrack 6 2 10 4 6
+Merchantman 7 3 5 6 8
+Sabre 2 7 2 5 0
+Orion 10 1 6 2 9
+Hornet 2 5 3 4 1
+Hurricane 2 5 3 5 0
+m50 1 10 2 2 0
+Hawk 1 3 2 4 0
+m50 1 10 2 2 0
+Idris 8 2 7 10 6
+Hawk 1 3 2 4 0
+Vanguard 3 4 5 5 2
+------------------------------------------
+The communal pile has no cards now!
+------------------------------------------
+Round 30
+The activate player is AI3
+The player selected: Firepower Value: 4
+AI3 wins the round!
+AI3
+Description Size Speed Range Firepower Cargo
+Sabre 2 7 2 5 0
+Carrack 6 2 10 4 6
+Constellation 4 5 7 3 4
+Sabre 2 7 2 5 0
+350r 1 9 2 3 0
+Hurricane 2 5 3 5 0
+Idris 8 2 7 10 6
+Vanguard 3 4 5 5 2
+Orion 10 1 6 2 9
+350r 1 9 2 3 0
+Hornet 2 5 3 4 1
+Avenger 2 5 4 3 2
+Avenger 2 5 4 3 2
+Hurricane 2 5 3 5 0
+m50 1 10 2 2 0
+Hornet 2 5 3 4 1
+Carrack 6 2 10 4 6
+Vanguard 3 4 5 5 2
+Constellation 4 5 7 3 4
+350r 1 9 2 3 0
+Hawk 1 3 2 4 0
+Orion 10 1 6 2 9
+------------------------------------------
+AI4
+Description Size Speed Range Firepower Cargo
+Constellation 4 5 7 3 4
+Avenger 2 5 4 3 2
+Merchantman 7 3 5 6 8
+Merchantman 7 3 5 6 8
+Avenger 2 5 4 3 2
+Idris 8 2 7 10 6
+Carrack 6 2 10 4 6
+Merchantman 7 3 5 6 8
+Sabre 2 7 2 5 0
+Orion 10 1 6 2 9
+Hornet 2 5 3 4 1
+Hurricane 2 5 3 5 0
+m50 1 10 2 2 0
+Hawk 1 3 2 4 0
+m50 1 10 2 2 0
+Idris 8 2 7 10 6
+Hawk 1 3 2 4 0
+Vanguard 3 4 5 5 2
+------------------------------------------
+The communal pile has no cards now!
+------------------------------------------
+Round 31
+The activate player is AI3
+The player selected: Speed Value: 7
+AI3 wins the round!
+AI3
+Description Size Speed Range Firepower Cargo
+Carrack 6 2 10 4 6
+Constellation 4 5 7 3 4
+Sabre 2 7 2 5 0
+350r 1 9 2 3 0
+Hurricane 2 5 3 5 0
+Idris 8 2 7 10 6
+Vanguard 3 4 5 5 2
+Orion 10 1 6 2 9
+350r 1 9 2 3 0
+Hornet 2 5 3 4 1
+Avenger 2 5 4 3 2
+Avenger 2 5 4 3 2
+Hurricane 2 5 3 5 0
+m50 1 10 2 2 0
+Hornet 2 5 3 4 1
+Carrack 6 2 10 4 6
+Vanguard 3 4 5 5 2
+Constellation 4 5 7 3 4
+350r 1 9 2 3 0
+Hawk 1 3 2 4 0
+Orion 10 1 6 2 9
+Sabre 2 7 2 5 0
+Constellation 4 5 7 3 4
+------------------------------------------
+AI4
+Description Size Speed Range Firepower Cargo
+Avenger 2 5 4 3 2
+Merchantman 7 3 5 6 8
+Merchantman 7 3 5 6 8
+Avenger 2 5 4 3 2
+Idris 8 2 7 10 6
+Carrack 6 2 10 4 6
+Merchantman 7 3 5 6 8
+Sabre 2 7 2 5 0
+Orion 10 1 6 2 9
+Hornet 2 5 3 4 1
+Hurricane 2 5 3 5 0
+m50 1 10 2 2 0
+Hawk 1 3 2 4 0
+m50 1 10 2 2 0
+Idris 8 2 7 10 6
+Hawk 1 3 2 4 0
+Vanguard 3 4 5 5 2
+------------------------------------------
+The communal pile has no cards now!
+------------------------------------------
+Round 32
+The activate player is AI3
+The player selected: Range Value: 10
+AI3 wins the round!
+AI3
+Description Size Speed Range Firepower Cargo
+Constellation 4 5 7 3 4
+Sabre 2 7 2 5 0
+350r 1 9 2 3 0
+Hurricane 2 5 3 5 0
+Idris 8 2 7 10 6
+Vanguard 3 4 5 5 2
+Orion 10 1 6 2 9
+350r 1 9 2 3 0
+Hornet 2 5 3 4 1
+Avenger 2 5 4 3 2
+Avenger 2 5 4 3 2
+Hurricane 2 5 3 5 0
+m50 1 10 2 2 0
+Hornet 2 5 3 4 1
+Carrack 6 2 10 4 6
+Vanguard 3 4 5 5 2
+Constellation 4 5 7 3 4
+350r 1 9 2 3 0
+Hawk 1 3 2 4 0
+Orion 10 1 6 2 9
+Sabre 2 7 2 5 0
+Constellation 4 5 7 3 4
+Carrack 6 2 10 4 6
+Avenger 2 5 4 3 2
+------------------------------------------
+AI4
+Description Size Speed Range Firepower Cargo
+Merchantman 7 3 5 6 8
+Merchantman 7 3 5 6 8
+Avenger 2 5 4 3 2
+Idris 8 2 7 10 6
+Carrack 6 2 10 4 6
+Merchantman 7 3 5 6 8
+Sabre 2 7 2 5 0
+Orion 10 1 6 2 9
+Hornet 2 5 3 4 1
+Hurricane 2 5 3 5 0
+m50 1 10 2 2 0
+Hawk 1 3 2 4 0
+m50 1 10 2 2 0
+Idris 8 2 7 10 6
+Hawk 1 3 2 4 0
+Vanguard 3 4 5 5 2
+------------------------------------------
+The communal pile has no cards now!
+------------------------------------------
+Round 33
+The activate player is AI3
+The player selected: Range Value: 7
+AI3 wins the round!
+AI3
+Description Size Speed Range Firepower Cargo
+Sabre 2 7 2 5 0
+350r 1 9 2 3 0
+Hurricane 2 5 3 5 0
+Idris 8 2 7 10 6
+Vanguard 3 4 5 5 2
+Orion 10 1 6 2 9
+350r 1 9 2 3 0
+Hornet 2 5 3 4 1
+Avenger 2 5 4 3 2
+Avenger 2 5 4 3 2
+Hurricane 2 5 3 5 0
+m50 1 10 2 2 0
+Hornet 2 5 3 4 1
+Carrack 6 2 10 4 6
+Vanguard 3 4 5 5 2
+Constellation 4 5 7 3 4
+350r 1 9 2 3 0
+Hawk 1 3 2 4 0
+Orion 10 1 6 2 9
+Sabre 2 7 2 5 0
+Constellation 4 5 7 3 4
+Carrack 6 2 10 4 6
+Avenger 2 5 4 3 2
+Constellation 4 5 7 3 4
+Merchantman 7 3 5 6 8
+------------------------------------------
+AI4
+Description Size Speed Range Firepower Cargo
+Merchantman 7 3 5 6 8
+Avenger 2 5 4 3 2
+Idris 8 2 7 10 6
+Carrack 6 2 10 4 6
+Merchantman 7 3 5 6 8
+Sabre 2 7 2 5 0
+Orion 10 1 6 2 9
+Hornet 2 5 3 4 1
+Hurricane 2 5 3 5 0
+m50 1 10 2 2 0
+Hawk 1 3 2 4 0
+m50 1 10 2 2 0
+Idris 8 2 7 10 6
+Hawk 1 3 2 4 0
+Vanguard 3 4 5 5 2
+------------------------------------------
+The communal pile has no cards now!
+------------------------------------------
+Round 34
+The activate player is AI3
+The player selected: Speed Value: 7
+AI3 wins the round!
+AI3
+Description Size Speed Range Firepower Cargo
+350r 1 9 2 3 0
+Hurricane 2 5 3 5 0
+Idris 8 2 7 10 6
+Vanguard 3 4 5 5 2
+Orion 10 1 6 2 9
+350r 1 9 2 3 0
+Hornet 2 5 3 4 1
+Avenger 2 5 4 3 2
+Avenger 2 5 4 3 2
+Hurricane 2 5 3 5 0
+m50 1 10 2 2 0
+Hornet 2 5 3 4 1
+Carrack 6 2 10 4 6
+Vanguard 3 4 5 5 2
+Constellation 4 5 7 3 4
+350r 1 9 2 3 0
+Hawk 1 3 2 4 0
+Orion 10 1 6 2 9
+Sabre 2 7 2 5 0
+Constellation 4 5 7 3 4
+Carrack 6 2 10 4 6
+Avenger 2 5 4 3 2
+Constellation 4 5 7 3 4
+Merchantman 7 3 5 6 8
+Sabre 2 7 2 5 0
+Merchantman 7 3 5 6 8
+------------------------------------------
+AI4
+Description Size Speed Range Firepower Cargo
+Avenger 2 5 4 3 2
+Idris 8 2 7 10 6
+Carrack 6 2 10 4 6
+Merchantman 7 3 5 6 8
+Sabre 2 7 2 5 0
+Orion 10 1 6 2 9
+Hornet 2 5 3 4 1
+Hurricane 2 5 3 5 0
+m50 1 10 2 2 0
+Hawk 1 3 2 4 0
+m50 1 10 2 2 0
+Idris 8 2 7 10 6
+Hawk 1 3 2 4 0
+Vanguard 3 4 5 5 2
+------------------------------------------
+The communal pile has no cards now!
+------------------------------------------
+Round 35
+The activate player is AI3
+The player selected: Speed Value: 9
+AI3 wins the round!
+AI3
+Description Size Speed Range Firepower Cargo
+Hurricane 2 5 3 5 0
+Idris 8 2 7 10 6
+Vanguard 3 4 5 5 2
+Orion 10 1 6 2 9
+350r 1 9 2 3 0
+Hornet 2 5 3 4 1
+Avenger 2 5 4 3 2
+Avenger 2 5 4 3 2
+Hurricane 2 5 3 5 0
+m50 1 10 2 2 0
+Hornet 2 5 3 4 1
+Carrack 6 2 10 4 6
+Vanguard 3 4 5 5 2
+Constellation 4 5 7 3 4
+350r 1 9 2 3 0
+Hawk 1 3 2 4 0
+Orion 10 1 6 2 9
+Sabre 2 7 2 5 0
+Constellation 4 5 7 3 4
+Carrack 6 2 10 4 6
+Avenger 2 5 4 3 2
+Constellation 4 5 7 3 4
+Merchantman 7 3 5 6 8
+Sabre 2 7 2 5 0
+Merchantman 7 3 5 6 8
+350r 1 9 2 3 0
+Avenger 2 5 4 3 2
+------------------------------------------
+AI4
+Description Size Speed Range Firepower Cargo
+Idris 8 2 7 10 6
+Carrack 6 2 10 4 6
+Merchantman 7 3 5 6 8
+Sabre 2 7 2 5 0
+Orion 10 1 6 2 9
+Hornet 2 5 3 4 1
+Hurricane 2 5 3 5 0
+m50 1 10 2 2 0
+Hawk 1 3 2 4 0
+m50 1 10 2 2 0
+Idris 8 2 7 10 6
+Hawk 1 3 2 4 0
+Vanguard 3 4 5 5 2
+------------------------------------------
+The communal pile has no cards now!
+------------------------------------------
+Round 36
+The activate player is AI3
+The player selected: Speed Value: 5
+AI3 wins the round!
+AI3
+Description Size Speed Range Firepower Cargo
+Idris 8 2 7 10 6
+Vanguard 3 4 5 5 2
+Orion 10 1 6 2 9
+350r 1 9 2 3 0
+Hornet 2 5 3 4 1
+Avenger 2 5 4 3 2
+Avenger 2 5 4 3 2
+Hurricane 2 5 3 5 0
+m50 1 10 2 2 0
+Hornet 2 5 3 4 1
+Carrack 6 2 10 4 6
+Vanguard 3 4 5 5 2
+Constellation 4 5 7 3 4
+350r 1 9 2 3 0
+Hawk 1 3 2 4 0
+Orion 10 1 6 2 9
+Sabre 2 7 2 5 0
+Constellation 4 5 7 3 4
+Carrack 6 2 10 4 6
+Avenger 2 5 4 3 2
+Constellation 4 5 7 3 4
+Merchantman 7 3 5 6 8
+Sabre 2 7 2 5 0
+Merchantman 7 3 5 6 8
+350r 1 9 2 3 0
+Avenger 2 5 4 3 2
+Hurricane 2 5 3 5 0
+Idris 8 2 7 10 6
+------------------------------------------
+AI4
+Description Size Speed Range Firepower Cargo
+Carrack 6 2 10 4 6
+Merchantman 7 3 5 6 8
+Sabre 2 7 2 5 0
+Orion 10 1 6 2 9
+Hornet 2 5 3 4 1
+Hurricane 2 5 3 5 0
+m50 1 10 2 2 0
+Hawk 1 3 2 4 0
+m50 1 10 2 2 0
+Idris 8 2 7 10 6
+Hawk 1 3 2 4 0
+Vanguard 3 4 5 5 2
+------------------------------------------
+The communal pile has no cards now!
+------------------------------------------
+Round 37
+The activate player is AI3
+The player selected: Firepower Value: 10
+AI3 wins the round!
+AI3
+Description Size Speed Range Firepower Cargo
+Vanguard 3 4 5 5 2
+Orion 10 1 6 2 9
+350r 1 9 2 3 0
+Hornet 2 5 3 4 1
+Avenger 2 5 4 3 2
+Avenger 2 5 4 3 2
+Hurricane 2 5 3 5 0
+m50 1 10 2 2 0
+Hornet 2 5 3 4 1
+Carrack 6 2 10 4 6
+Vanguard 3 4 5 5 2
+Constellation 4 5 7 3 4
+350r 1 9 2 3 0
+Hawk 1 3 2 4 0
+Orion 10 1 6 2 9
+Sabre 2 7 2 5 0
+Constellation 4 5 7 3 4
+Carrack 6 2 10 4 6
+Avenger 2 5 4 3 2
+Constellation 4 5 7 3 4
+Merchantman 7 3 5 6 8
+Sabre 2 7 2 5 0
+Merchantman 7 3 5 6 8
+350r 1 9 2 3 0
+Avenger 2 5 4 3 2
+Hurricane 2 5 3 5 0
+Idris 8 2 7 10 6
+Idris 8 2 7 10 6
+Carrack 6 2 10 4 6
+------------------------------------------
+AI4
+Description Size Speed Range Firepower Cargo
+Merchantman 7 3 5 6 8
+Sabre 2 7 2 5 0
+Orion 10 1 6 2 9
+Hornet 2 5 3 4 1
+Hurricane 2 5 3 5 0
+m50 1 10 2 2 0
+Hawk 1 3 2 4 0
+m50 1 10 2 2 0
+Idris 8 2 7 10 6
+Hawk 1 3 2 4 0
+Vanguard 3 4 5 5 2
+------------------------------------------
+The communal pile has no cards now!
+------------------------------------------
+Round 38
+The activate player is AI3
+The player selected: Range Value: 5
+AI3 wins the round!
+AI3
+Description Size Speed Range Firepower Cargo
+Orion 10 1 6 2 9
+350r 1 9 2 3 0
+Hornet 2 5 3 4 1
+Avenger 2 5 4 3 2
+Avenger 2 5 4 3 2
+Hurricane 2 5 3 5 0
+m50 1 10 2 2 0
+Hornet 2 5 3 4 1
+Carrack 6 2 10 4 6
+Vanguard 3 4 5 5 2
+Constellation 4 5 7 3 4
+350r 1 9 2 3 0
+Hawk 1 3 2 4 0
+Orion 10 1 6 2 9
+Sabre 2 7 2 5 0
+Constellation 4 5 7 3 4
+Carrack 6 2 10 4 6
+Avenger 2 5 4 3 2
+Constellation 4 5 7 3 4
+Merchantman 7 3 5 6 8
+Sabre 2 7 2 5 0
+Merchantman 7 3 5 6 8
+350r 1 9 2 3 0
+Avenger 2 5 4 3 2
+Hurricane 2 5 3 5 0
+Idris 8 2 7 10 6
+Idris 8 2 7 10 6
+Carrack 6 2 10 4 6
+------------------------------------------
+AI4
+Description Size Speed Range Firepower Cargo
+Sabre 2 7 2 5 0
+Orion 10 1 6 2 9
+Hornet 2 5 3 4 1
+Hurricane 2 5 3 5 0
+m50 1 10 2 2 0
+Hawk 1 3 2 4 0
+m50 1 10 2 2 0
+Idris 8 2 7 10 6
+Hawk 1 3 2 4 0
+Vanguard 3 4 5 5 2
+------------------------------------------
+The communal pile has cards:
+Vanguard 3 4 5 5 2
+Merchantman 7 3 5 6 8
+------------------------------------------
+Round 39
+The activate player is AI3
+The player selected: Size Value: 10
+AI3 wins the round!
+AI3
+Description Size Speed Range Firepower Cargo
+350r 1 9 2 3 0
+Hornet 2 5 3 4 1
+Avenger 2 5 4 3 2
+Avenger 2 5 4 3 2
+Hurricane 2 5 3 5 0
+m50 1 10 2 2 0
+Hornet 2 5 3 4 1
+Carrack 6 2 10 4 6
+Vanguard 3 4 5 5 2
+Constellation 4 5 7 3 4
+350r 1 9 2 3 0
+Hawk 1 3 2 4 0
+Orion 10 1 6 2 9
+Sabre 2 7 2 5 0
+Constellation 4 5 7 3 4
+Carrack 6 2 10 4 6
+Avenger 2 5 4 3 2
+Constellation 4 5 7 3 4
+Merchantman 7 3 5 6 8
+Sabre 2 7 2 5 0
+Merchantman 7 3 5 6 8
+350r 1 9 2 3 0
+Avenger 2 5 4 3 2
+Hurricane 2 5 3 5 0
+Idris 8 2 7 10 6
+Idris 8 2 7 10 6
+Carrack 6 2 10 4 6
+Vanguard 3 4 5 5 2
+Merchantman 7 3 5 6 8
+Orion 10 1 6 2 9
+Sabre 2 7 2 5 0
+------------------------------------------
+AI4
+Description Size Speed Range Firepower Cargo
+Orion 10 1 6 2 9
+Hornet 2 5 3 4 1
+Hurricane 2 5 3 5 0
+m50 1 10 2 2 0
+Hawk 1 3 2 4 0
+m50 1 10 2 2 0
+Idris 8 2 7 10 6
+Hawk 1 3 2 4 0
+Vanguard 3 4 5 5 2
+------------------------------------------
+The communal pile has no cards now!
+------------------------------------------
+Round 40
+The activate player is AI3
+The player selected: Speed Value: 9
+AI3 wins the round!
+AI3
+Description Size Speed Range Firepower Cargo
+Hornet 2 5 3 4 1
+Avenger 2 5 4 3 2
+Avenger 2 5 4 3 2
+Hurricane 2 5 3 5 0
+m50 1 10 2 2 0
+Hornet 2 5 3 4 1
+Carrack 6 2 10 4 6
+Vanguard 3 4 5 5 2
+Constellation 4 5 7 3 4
+350r 1 9 2 3 0
+Hawk 1 3 2 4 0
+Orion 10 1 6 2 9
+Sabre 2 7 2 5 0
+Constellation 4 5 7 3 4
+Carrack 6 2 10 4 6
+Avenger 2 5 4 3 2
+Constellation 4 5 7 3 4
+Merchantman 7 3 5 6 8
+Sabre 2 7 2 5 0
+Merchantman 7 3 5 6 8
+350r 1 9 2 3 0
+Avenger 2 5 4 3 2
+Hurricane 2 5 3 5 0
+Idris 8 2 7 10 6
+Idris 8 2 7 10 6
+Carrack 6 2 10 4 6
+Vanguard 3 4 5 5 2
+Merchantman 7 3 5 6 8
+Orion 10 1 6 2 9
+Sabre 2 7 2 5 0
+350r 1 9 2 3 0
+Orion 10 1 6 2 9
+------------------------------------------
+AI4
+Description Size Speed Range Firepower Cargo
+Hornet 2 5 3 4 1
+Hurricane 2 5 3 5 0
+m50 1 10 2 2 0
+Hawk 1 3 2 4 0
+m50 1 10 2 2 0
+Idris 8 2 7 10 6
+Hawk 1 3 2 4 0
+Vanguard 3 4 5 5 2
+------------------------------------------
+The communal pile has no cards now!
+------------------------------------------
+Round 41
+The activate player is AI3
+The player selected: Speed Value: 5
+AI3 wins the round!
+AI3
+Description Size Speed Range Firepower Cargo
+Avenger 2 5 4 3 2
+Avenger 2 5 4 3 2
+Hurricane 2 5 3 5 0
+m50 1 10 2 2 0
+Hornet 2 5 3 4 1
+Carrack 6 2 10 4 6
+Vanguard 3 4 5 5 2
+Constellation 4 5 7 3 4
+350r 1 9 2 3 0
+Hawk 1 3 2 4 0
+Orion 10 1 6 2 9
+Sabre 2 7 2 5 0
+Constellation 4 5 7 3 4
+Carrack 6 2 10 4 6
+Avenger 2 5 4 3 2
+Constellation 4 5 7 3 4
+Merchantman 7 3 5 6 8
+Sabre 2 7 2 5 0
+Merchantman 7 3 5 6 8
+350r 1 9 2 3 0
+Avenger 2 5 4 3 2
+Hurricane 2 5 3 5 0
+Idris 8 2 7 10 6
+Idris 8 2 7 10 6
+Carrack 6 2 10 4 6
+Vanguard 3 4 5 5 2
+Merchantman 7 3 5 6 8
+Orion 10 1 6 2 9
+Sabre 2 7 2 5 0
+350r 1 9 2 3 0
+Orion 10 1 6 2 9
+------------------------------------------
+AI4
+Description Size Speed Range Firepower Cargo
+Hurricane 2 5 3 5 0
+m50 1 10 2 2 0
+Hawk 1 3 2 4 0
+m50 1 10 2 2 0
+Idris 8 2 7 10 6
+Hawk 1 3 2 4 0
+Vanguard 3 4 5 5 2
+------------------------------------------
+The communal pile has cards:
+Hornet 2 5 3 4 1
+Hornet 2 5 3 4 1
+------------------------------------------
+Round 42
+The activate player is AI3
+The player selected: Speed Value: 5
+AI3 wins the round!
+AI3
+Description Size Speed Range Firepower Cargo
+Avenger 2 5 4 3 2
+Hurricane 2 5 3 5 0
+m50 1 10 2 2 0
+Hornet 2 5 3 4 1
+Carrack 6 2 10 4 6
+Vanguard 3 4 5 5 2
+Constellation 4 5 7 3 4
+350r 1 9 2 3 0
+Hawk 1 3 2 4 0
+Orion 10 1 6 2 9
+Sabre 2 7 2 5 0
+Constellation 4 5 7 3 4
+Carrack 6 2 10 4 6
+Avenger 2 5 4 3 2
+Constellation 4 5 7 3 4
+Merchantman 7 3 5 6 8
+Sabre 2 7 2 5 0
+Merchantman 7 3 5 6 8
+350r 1 9 2 3 0
+Avenger 2 5 4 3 2
+Hurricane 2 5 3 5 0
+Idris 8 2 7 10 6
+Idris 8 2 7 10 6
+Carrack 6 2 10 4 6
+Vanguard 3 4 5 5 2
+Merchantman 7 3 5 6 8
+Orion 10 1 6 2 9
+Sabre 2 7 2 5 0
+350r 1 9 2 3 0
+Orion 10 1 6 2 9
+------------------------------------------
+AI4
+Description Size Speed Range Firepower Cargo
+m50 1 10 2 2 0
+Hawk 1 3 2 4 0
+m50 1 10 2 2 0
+Idris 8 2 7 10 6
+Hawk 1 3 2 4 0
+Vanguard 3 4 5 5 2
+------------------------------------------
+The communal pile has cards:
+Hornet 2 5 3 4 1
+Hornet 2 5 3 4 1
+Avenger 2 5 4 3 2
+Hurricane 2 5 3 5 0
+------------------------------------------
+Round 43
+The activate player is AI3
+The player selected: Speed Value: 5
+AI4 wins the round!
+AI3
+Description Size Speed Range Firepower Cargo
+Hurricane 2 5 3 5 0
+m50 1 10 2 2 0
+Hornet 2 5 3 4 1
+Carrack 6 2 10 4 6
+Vanguard 3 4 5 5 2
+Constellation 4 5 7 3 4
+350r 1 9 2 3 0
+Hawk 1 3 2 4 0
+Orion 10 1 6 2 9
+Sabre 2 7 2 5 0
+Constellation 4 5 7 3 4
+Carrack 6 2 10 4 6
+Avenger 2 5 4 3 2
+Constellation 4 5 7 3 4
+Merchantman 7 3 5 6 8
+Sabre 2 7 2 5 0
+Merchantman 7 3 5 6 8
+350r 1 9 2 3 0
+Avenger 2 5 4 3 2
+Hurricane 2 5 3 5 0
+Idris 8 2 7 10 6
+Idris 8 2 7 10 6
+Carrack 6 2 10 4 6
+Vanguard 3 4 5 5 2
+Merchantman 7 3 5 6 8
+Orion 10 1 6 2 9
+Sabre 2 7 2 5 0
+350r 1 9 2 3 0
+Orion 10 1 6 2 9
+------------------------------------------
+AI4
+Description Size Speed Range Firepower Cargo
+Hawk 1 3 2 4 0
+m50 1 10 2 2 0
+Idris 8 2 7 10 6
+Hawk 1 3 2 4 0
+Vanguard 3 4 5 5 2
+Hornet 2 5 3 4 1
+Hornet 2 5 3 4 1
+Avenger 2 5 4 3 2
+Hurricane 2 5 3 5 0
+Avenger 2 5 4 3 2
+m50 1 10 2 2 0
+------------------------------------------
+The communal pile has no cards now!
+------------------------------------------
+Round 44
+The activate player is AI4
+The player selected: Firepower Value: 4
+AI3 wins the round!
+AI3
+Description Size Speed Range Firepower Cargo
+m50 1 10 2 2 0
+Hornet 2 5 3 4 1
+Carrack 6 2 10 4 6
+Vanguard 3 4 5 5 2
+Constellation 4 5 7 3 4
+350r 1 9 2 3 0
+Hawk 1 3 2 4 0
+Orion 10 1 6 2 9
+Sabre 2 7 2 5 0
+Constellation 4 5 7 3 4
+Carrack 6 2 10 4 6
+Avenger 2 5 4 3 2
+Constellation 4 5 7 3 4
+Merchantman 7 3 5 6 8
+Sabre 2 7 2 5 0
+Merchantman 7 3 5 6 8
+350r 1 9 2 3 0
+Avenger 2 5 4 3 2
+Hurricane 2 5 3 5 0
+Idris 8 2 7 10 6
+Idris 8 2 7 10 6
+Carrack 6 2 10 4 6
+Vanguard 3 4 5 5 2
+Merchantman 7 3 5 6 8
+Orion 10 1 6 2 9
+Sabre 2 7 2 5 0
+350r 1 9 2 3 0
+Orion 10 1 6 2 9
+Hurricane 2 5 3 5 0
+Hawk 1 3 2 4 0
+------------------------------------------
+AI4
+Description Size Speed Range Firepower Cargo
+m50 1 10 2 2 0
+Idris 8 2 7 10 6
+Hawk 1 3 2 4 0
+Vanguard 3 4 5 5 2
+Hornet 2 5 3 4 1
+Hornet 2 5 3 4 1
+Avenger 2 5 4 3 2
+Hurricane 2 5 3 5 0
+Avenger 2 5 4 3 2
+m50 1 10 2 2 0
+------------------------------------------
+The communal pile has no cards now!
+------------------------------------------
+Round 45
+The activate player is AI3
+The player selected: Speed Value: 10
+AI3 wins the round!
+AI3
+Description Size Speed Range Firepower Cargo
+Hornet 2 5 3 4 1
+Carrack 6 2 10 4 6
+Vanguard 3 4 5 5 2
+Constellation 4 5 7 3 4
+350r 1 9 2 3 0
+Hawk 1 3 2 4 0
+Orion 10 1 6 2 9
+Sabre 2 7 2 5 0
+Constellation 4 5 7 3 4
+Carrack 6 2 10 4 6
+Avenger 2 5 4 3 2
+Constellation 4 5 7 3 4
+Merchantman 7 3 5 6 8
+Sabre 2 7 2 5 0
+Merchantman 7 3 5 6 8
+350r 1 9 2 3 0
+Avenger 2 5 4 3 2
+Hurricane 2 5 3 5 0
+Idris 8 2 7 10 6
+Idris 8 2 7 10 6
+Carrack 6 2 10 4 6
+Vanguard 3 4 5 5 2
+Merchantman 7 3 5 6 8
+Orion 10 1 6 2 9
+Sabre 2 7 2 5 0
+350r 1 9 2 3 0
+Orion 10 1 6 2 9
+Hurricane 2 5 3 5 0
+Hawk 1 3 2 4 0
+------------------------------------------
+AI4
+Description Size Speed Range Firepower Cargo
+Idris 8 2 7 10 6
+Hawk 1 3 2 4 0
+Vanguard 3 4 5 5 2
+Hornet 2 5 3 4 1
+Hornet 2 5 3 4 1
+Avenger 2 5 4 3 2
+Hurricane 2 5 3 5 0
+Avenger 2 5 4 3 2
+m50 1 10 2 2 0
+------------------------------------------
+The communal pile has cards:
+m50 1 10 2 2 0
+m50 1 10 2 2 0
+------------------------------------------
+Round 46
+The activate player is AI3
+The player selected: Speed Value: 5
+AI3 wins the round!
+AI3
+Description Size Speed Range Firepower Cargo
+Carrack 6 2 10 4 6
+Vanguard 3 4 5 5 2
+Constellation 4 5 7 3 4
+350r 1 9 2 3 0
+Hawk 1 3 2 4 0
+Orion 10 1 6 2 9
+Sabre 2 7 2 5 0
+Constellation 4 5 7 3 4
+Carrack 6 2 10 4 6
+Avenger 2 5 4 3 2
+Constellation 4 5 7 3 4
+Merchantman 7 3 5 6 8
+Sabre 2 7 2 5 0
+Merchantman 7 3 5 6 8
+350r 1 9 2 3 0
+Avenger 2 5 4 3 2
+Hurricane 2 5 3 5 0
+Idris 8 2 7 10 6
+Idris 8 2 7 10 6
+Carrack 6 2 10 4 6
+Vanguard 3 4 5 5 2
+Merchantman 7 3 5 6 8
+Orion 10 1 6 2 9
+Sabre 2 7 2 5 0
+350r 1 9 2 3 0
+Orion 10 1 6 2 9
+Hurricane 2 5 3 5 0
+Hawk 1 3 2 4 0
+m50 1 10 2 2 0
+m50 1 10 2 2 0
+Hornet 2 5 3 4 1
+Idris 8 2 7 10 6
+------------------------------------------
+AI4
+Description Size Speed Range Firepower Cargo
+Hawk 1 3 2 4 0
+Vanguard 3 4 5 5 2
+Hornet 2 5 3 4 1
+Hornet 2 5 3 4 1
+Avenger 2 5 4 3 2
+Hurricane 2 5 3 5 0
+Avenger 2 5 4 3 2
+m50 1 10 2 2 0
+------------------------------------------
+The communal pile has no cards now!
+------------------------------------------
+Round 47
+The activate player is AI3
+The player selected: Range Value: 10
+AI3 wins the round!
+AI3
+Description Size Speed Range Firepower Cargo
+Vanguard 3 4 5 5 2
+Constellation 4 5 7 3 4
+350r 1 9 2 3 0
+Hawk 1 3 2 4 0
+Orion 10 1 6 2 9
+Sabre 2 7 2 5 0
+Constellation 4 5 7 3 4
+Carrack 6 2 10 4 6
+Avenger 2 5 4 3 2
+Constellation 4 5 7 3 4
+Merchantman 7 3 5 6 8
+Sabre 2 7 2 5 0
+Merchantman 7 3 5 6 8
+350r 1 9 2 3 0
+Avenger 2 5 4 3 2
+Hurricane 2 5 3 5 0
+Idris 8 2 7 10 6
+Idris 8 2 7 10 6
+Carrack 6 2 10 4 6
+Vanguard 3 4 5 5 2
+Merchantman 7 3 5 6 8
+Orion 10 1 6 2 9
+Sabre 2 7 2 5 0
+350r 1 9 2 3 0
+Orion 10 1 6 2 9
+Hurricane 2 5 3 5 0
+Hawk 1 3 2 4 0
+m50 1 10 2 2 0
+m50 1 10 2 2 0
+Hornet 2 5 3 4 1
+Idris 8 2 7 10 6
+Carrack 6 2 10 4 6
+Hawk 1 3 2 4 0
+------------------------------------------
+AI4
+Description Size Speed Range Firepower Cargo
+Vanguard 3 4 5 5 2
+Hornet 2 5 3 4 1
+Hornet 2 5 3 4 1
+Avenger 2 5 4 3 2
+Hurricane 2 5 3 5 0
+Avenger 2 5 4 3 2
+m50 1 10 2 2 0
+------------------------------------------
+The communal pile has no cards now!
+------------------------------------------
+Round 48
+The activate player is AI3
+The player selected: Range Value: 5
+AI3 wins the round!
+AI3
+Description Size Speed Range Firepower Cargo
+Constellation 4 5 7 3 4
+350r 1 9 2 3 0
+Hawk 1 3 2 4 0
+Orion 10 1 6 2 9
+Sabre 2 7 2 5 0
+Constellation 4 5 7 3 4
+Carrack 6 2 10 4 6
+Avenger 2 5 4 3 2
+Constellation 4 5 7 3 4
+Merchantman 7 3 5 6 8
+Sabre 2 7 2 5 0
+Merchantman 7 3 5 6 8
+350r 1 9 2 3 0
+Avenger 2 5 4 3 2
+Hurricane 2 5 3 5 0
+Idris 8 2 7 10 6
+Idris 8 2 7 10 6
+Carrack 6 2 10 4 6
+Vanguard 3 4 5 5 2
+Merchantman 7 3 5 6 8
+Orion 10 1 6 2 9
+Sabre 2 7 2 5 0
+350r 1 9 2 3 0
+Orion 10 1 6 2 9
+Hurricane 2 5 3 5 0
+Hawk 1 3 2 4 0
+m50 1 10 2 2 0
+m50 1 10 2 2 0
+Hornet 2 5 3 4 1
+Idris 8 2 7 10 6
+Carrack 6 2 10 4 6
+Hawk 1 3 2 4 0
+------------------------------------------
+AI4
+Description Size Speed Range Firepower Cargo
+Hornet 2 5 3 4 1
+Hornet 2 5 3 4 1
+Avenger 2 5 4 3 2
+Hurricane 2 5 3 5 0
+Avenger 2 5 4 3 2
+m50 1 10 2 2 0
+------------------------------------------
+The communal pile has cards:
+Vanguard 3 4 5 5 2
+Vanguard 3 4 5 5 2
+------------------------------------------
+Round 49
+The activate player is AI3
+The player selected: Range Value: 7
+AI3 wins the round!
+AI3
+Description Size Speed Range Firepower Cargo
+350r 1 9 2 3 0
+Hawk 1 3 2 4 0
+Orion 10 1 6 2 9
+Sabre 2 7 2 5 0
+Constellation 4 5 7 3 4
+Carrack 6 2 10 4 6
+Avenger 2 5 4 3 2
+Constellation 4 5 7 3 4
+Merchantman 7 3 5 6 8
+Sabre 2 7 2 5 0
+Merchantman 7 3 5 6 8
+350r 1 9 2 3 0
+Avenger 2 5 4 3 2
+Hurricane 2 5 3 5 0
+Idris 8 2 7 10 6
+Idris 8 2 7 10 6
+Carrack 6 2 10 4 6
+Vanguard 3 4 5 5 2
+Merchantman 7 3 5 6 8
+Orion 10 1 6 2 9
+Sabre 2 7 2 5 0
+350r 1 9 2 3 0
+Orion 10 1 6 2 9
+Hurricane 2 5 3 5 0
+Hawk 1 3 2 4 0
+m50 1 10 2 2 0
+m50 1 10 2 2 0
+Hornet 2 5 3 4 1
+Idris 8 2 7 10 6
+Carrack 6 2 10 4 6
+Hawk 1 3 2 4 0
+Vanguard 3 4 5 5 2
+Vanguard 3 4 5 5 2
+Constellation 4 5 7 3 4
+Hornet 2 5 3 4 1
+------------------------------------------
+AI4
+Description Size Speed Range Firepower Cargo
+Hornet 2 5 3 4 1
+Avenger 2 5 4 3 2
+Hurricane 2 5 3 5 0
+Avenger 2 5 4 3 2
+m50 1 10 2 2 0
+------------------------------------------
+The communal pile has no cards now!
+------------------------------------------
+Round 50
+The activate player is AI3
+The player selected: Speed Value: 9
+AI3 wins the round!
+AI3
+Description Size Speed Range Firepower Cargo
+Hawk 1 3 2 4 0
+Orion 10 1 6 2 9
+Sabre 2 7 2 5 0
+Constellation 4 5 7 3 4
+Carrack 6 2 10 4 6
+Avenger 2 5 4 3 2
+Constellation 4 5 7 3 4
+Merchantman 7 3 5 6 8
+Sabre 2 7 2 5 0
+Merchantman 7 3 5 6 8
+350r 1 9 2 3 0
+Avenger 2 5 4 3 2
+Hurricane 2 5 3 5 0
+Idris 8 2 7 10 6
+Idris 8 2 7 10 6
+Carrack 6 2 10 4 6
+Vanguard 3 4 5 5 2
+Merchantman 7 3 5 6 8
+Orion 10 1 6 2 9
+Sabre 2 7 2 5 0
+350r 1 9 2 3 0
+Orion 10 1 6 2 9
+Hurricane 2 5 3 5 0
+Hawk 1 3 2 4 0
+m50 1 10 2 2 0
+m50 1 10 2 2 0
+Hornet 2 5 3 4 1
+Idris 8 2 7 10 6
+Carrack 6 2 10 4 6
+Hawk 1 3 2 4 0
+Vanguard 3 4 5 5 2
+Vanguard 3 4 5 5 2
+Constellation 4 5 7 3 4
+Hornet 2 5 3 4 1
+350r 1 9 2 3 0
+Hornet 2 5 3 4 1
+------------------------------------------
+AI4
+Description Size Speed Range Firepower Cargo
+Avenger 2 5 4 3 2
+Hurricane 2 5 3 5 0
+Avenger 2 5 4 3 2
+m50 1 10 2 2 0
+------------------------------------------
+The communal pile has no cards now!
+------------------------------------------
+Round 51
+The activate player is AI3
+The player selected: Firepower Value: 4
+AI3 wins the round!
+AI3
+Description Size Speed Range Firepower Cargo
+Orion 10 1 6 2 9
+Sabre 2 7 2 5 0
+Constellation 4 5 7 3 4
+Carrack 6 2 10 4 6
+Avenger 2 5 4 3 2
+Constellation 4 5 7 3 4
+Merchantman 7 3 5 6 8
+Sabre 2 7 2 5 0
+Merchantman 7 3 5 6 8
+350r 1 9 2 3 0
+Avenger 2 5 4 3 2
+Hurricane 2 5 3 5 0
+Idris 8 2 7 10 6
+Idris 8 2 7 10 6
+Carrack 6 2 10 4 6
+Vanguard 3 4 5 5 2
+Merchantman 7 3 5 6 8
+Orion 10 1 6 2 9
+Sabre 2 7 2 5 0
+350r 1 9 2 3 0
+Orion 10 1 6 2 9
+Hurricane 2 5 3 5 0
+Hawk 1 3 2 4 0
+m50 1 10 2 2 0
+m50 1 10 2 2 0
+Hornet 2 5 3 4 1
+Idris 8 2 7 10 6
+Carrack 6 2 10 4 6
+Hawk 1 3 2 4 0
+Vanguard 3 4 5 5 2
+Vanguard 3 4 5 5 2
+Constellation 4 5 7 3 4
+Hornet 2 5 3 4 1
+350r 1 9 2 3 0
+Hornet 2 5 3 4 1
+Hawk 1 3 2 4 0
+Avenger 2 5 4 3 2
+------------------------------------------
+AI4
+Description Size Speed Range Firepower Cargo
+Hurricane 2 5 3 5 0
+Avenger 2 5 4 3 2
+m50 1 10 2 2 0
+------------------------------------------
+The communal pile has no cards now!
+------------------------------------------
+Round 52
+The activate player is AI3
+The player selected: Size Value: 10
+AI3 wins the round!
+AI3
+Description Size Speed Range Firepower Cargo
+Sabre 2 7 2 5 0
+Constellation 4 5 7 3 4
+Carrack 6 2 10 4 6
+Avenger 2 5 4 3 2
+Constellation 4 5 7 3 4
+Merchantman 7 3 5 6 8
+Sabre 2 7 2 5 0
+Merchantman 7 3 5 6 8
+350r 1 9 2 3 0
+Avenger 2 5 4 3 2
+Hurricane 2 5 3 5 0
+Idris 8 2 7 10 6
+Idris 8 2 7 10 6
+Carrack 6 2 10 4 6
+Vanguard 3 4 5 5 2
+Merchantman 7 3 5 6 8
+Orion 10 1 6 2 9
+Sabre 2 7 2 5 0
+350r 1 9 2 3 0
+Orion 10 1 6 2 9
+Hurricane 2 5 3 5 0
+Hawk 1 3 2 4 0
+m50 1 10 2 2 0
+m50 1 10 2 2 0
+Hornet 2 5 3 4 1
+Idris 8 2 7 10 6
+Carrack 6 2 10 4 6
+Hawk 1 3 2 4 0
+Vanguard 3 4 5 5 2
+Vanguard 3 4 5 5 2
+Constellation 4 5 7 3 4
+Hornet 2 5 3 4 1
+350r 1 9 2 3 0
+Hornet 2 5 3 4 1
+Hawk 1 3 2 4 0
+Avenger 2 5 4 3 2
+Orion 10 1 6 2 9
+Hurricane 2 5 3 5 0
+------------------------------------------
+AI4
+Description Size Speed Range Firepower Cargo
+Avenger 2 5 4 3 2
+m50 1 10 2 2 0
+------------------------------------------
+The communal pile has no cards now!
+------------------------------------------
+Round 53
+The activate player is AI3
+The player selected: Speed Value: 7
+AI3 wins the round!
+AI3
+Description Size Speed Range Firepower Cargo
+Constellation 4 5 7 3 4
+Carrack 6 2 10 4 6
+Avenger 2 5 4 3 2
+Constellation 4 5 7 3 4
+Merchantman 7 3 5 6 8
+Sabre 2 7 2 5 0
+Merchantman 7 3 5 6 8
+350r 1 9 2 3 0
+Avenger 2 5 4 3 2
+Hurricane 2 5 3 5 0
+Idris 8 2 7 10 6
+Idris 8 2 7 10 6
+Carrack 6 2 10 4 6
+Vanguard 3 4 5 5 2
+Merchantman 7 3 5 6 8
+Orion 10 1 6 2 9
+Sabre 2 7 2 5 0
+350r 1 9 2 3 0
+Orion 10 1 6 2 9
+Hurricane 2 5 3 5 0
+Hawk 1 3 2 4 0
+m50 1 10 2 2 0
+m50 1 10 2 2 0
+Hornet 2 5 3 4 1
+Idris 8 2 7 10 6
+Carrack 6 2 10 4 6
+Hawk 1 3 2 4 0
+Vanguard 3 4 5 5 2
+Vanguard 3 4 5 5 2
+Constellation 4 5 7 3 4
+Hornet 2 5 3 4 1
+350r 1 9 2 3 0
+Hornet 2 5 3 4 1
+Hawk 1 3 2 4 0
+Avenger 2 5 4 3 2
+Orion 10 1 6 2 9
+Hurricane 2 5 3 5 0
+Sabre 2 7 2 5 0
+Avenger 2 5 4 3 2
+------------------------------------------
+AI4
+Description Size Speed Range Firepower Cargo
+m50 1 10 2 2 0
+------------------------------------------
+The communal pile has no cards now!
+------------------------------------------
+Round 54
+The activate player is AI3
+The player selected: Range Value: 7
+AI3 wins the round!
+The final winner is AI3
+AI3
+Description Size Speed Range Firepower Cargo
+Carrack 6 2 10 4 6
+Avenger 2 5 4 3 2
+Constellation 4 5 7 3 4
+Merchantman 7 3 5 6 8
+Sabre 2 7 2 5 0
+Merchantman 7 3 5 6 8
+350r 1 9 2 3 0
+Avenger 2 5 4 3 2
+Hurricane 2 5 3 5 0
+Idris 8 2 7 10 6
+Idris 8 2 7 10 6
+Carrack 6 2 10 4 6
+Vanguard 3 4 5 5 2
+Merchantman 7 3 5 6 8
+Orion 10 1 6 2 9
+Sabre 2 7 2 5 0
+350r 1 9 2 3 0
+Orion 10 1 6 2 9
+Hurricane 2 5 3 5 0
+Hawk 1 3 2 4 0
+m50 1 10 2 2 0
+m50 1 10 2 2 0
+Hornet 2 5 3 4 1
+Idris 8 2 7 10 6
+Carrack 6 2 10 4 6
+Hawk 1 3 2 4 0
+Vanguard 3 4 5 5 2
+Vanguard 3 4 5 5 2
+Constellation 4 5 7 3 4
+Hornet 2 5 3 4 1
+350r 1 9 2 3 0
+Hornet 2 5 3 4 1
+Hawk 1 3 2 4 0
+Avenger 2 5 4 3 2
+Orion 10 1 6 2 9
+Hurricane 2 5 3 5 0
+Sabre 2 7 2 5 0
+Avenger 2 5 4 3 2
+Constellation 4 5 7 3 4
+m50 1 10 2 2 0
+------------------------------------------
+The communal pile has no cards now!
+------------------------------------------
